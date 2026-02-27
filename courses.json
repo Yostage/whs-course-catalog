@@ -1,0 +1,3523 @@
+[
+  {
+    "code": "BMD150A",
+    "name": "ADVANCED MARKETING",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of Intro to Marketing",
+    "diploma_category": "Career & Technical Education, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Class fee of $40 that includes DECA membership and area competition | Up to 5 college credits available",
+    "description": "Advanced marketing is designed to continue to develop and enhance skills learned in Introduction to Marketing. Students will create and develop proposals to present as if to gain commitment from a client. In addition, marketing students will also tap into their entrepreneurial spirit through business plan development. All of the skills are transferable to overall general student growth as they will develop their individual plan and develop an individual proposal to get that job! Finally, students will apply all of their skills in the Woodinville DECA program through competition and developing their network with community business professionals and alumni. We welcome your continued involvement in our comprehensive program this fall! DECA is the international student association, with 215,000 members, that all marketing students are encouraged to join. DECA provides students with many opportunities for travel, leadership development, case study competitions, DECA only scholarships, and fun. DECA is the \u201cvarsity sport of business\u201d. Topics covered are universal in the world of business and apply to both profit and not-for profit organizations.",
+    "tracks": [
+      "CTE",
+      "College Prep"
+    ]
+  },
+  {
+    "code": "BFI112A",
+    "name": "AP BUSINESS WITH PERSONAL FINANCE",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education, Flexible Credit",
+    "fees": null,
+    "notes": "It is recommended that students complete Intro to Marketing prior to taking AP Business and Personal Finance; however, it is not a required prerequisite.",
+    "description": "AP Business with Personal Finance is a college-level course that introduces students to the major disciplines of business, including entrepreneurship, marketing, finance, accounting, management, and personal finance. Students apply learning through real-world case studies and two signature projects: the Business Canvas Project, where they design and present a venture model, and the Financial Advisor Project, where they develop a client financial plan. The course emphasizes ethical leadership, data-driven decision making, and communication, preparing students for success in college, career, and life.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "BEC301/BEC300",
+    "name": "AP MICRO/MACRO ECONOMICS",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP exams (Microeconomics AND Macroeconomics) in the spring for potential college credit.",
+    "description": "Students will start the year learning AP Microeconomics, which is the study of how individuals and businesses make decisions. It includes topics such as: incentives, supply and demand, business costs, market structures, and the government\u2019s role in the marketplace. Second semester focuses on AP Macroeconomics, which is the study of the economy as a whole. It includes topics such as: International trade and exchange rates and how interest rates, taxes and government policies influence investment, unemployment, inflation and economic growth. AP Economics is a fast-paced, challenging and exciting course for any motivated student. Students who are successful in this course will be prepared to take BOTH the AP Macroeconomics and AP Microeconomics exams in the spring.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "BLA105",
+    "name": "BUSINESS LAW",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed to give students exposure to the types of law they will encounter every day. Topics covered include criminal and civil issues. An emphasis on case studies, role playing and group work will allow students to use their own life experiences to bring the course material to life and to keep the class relevant. Students learn the difference between criminal and tort law, elements of contracts, liability and negligence, and study consumer rights.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "BFI315A",
+    "name": "FINANCE: Personal Wealth Management and Investment",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education, CTE Dual Credit Offering, 3rd Credit of Math*",
+    "fees": null,
+    "notes": "If the course is being taken to meet the 3rd year math option, students must have previously earned two credits in math and form must be filed with the Counseling Office.",
+    "description": "Now is the time to start understanding finance in mathematical terms and gain confidence in your ability to manage money. This course is designed to build on your prior math knowledge while taking you step by step through strategies that will help you learn the time value of money, how to evaluate the best cell phone contract, how to build a business plan by knowing costs, profits, and break even points, how to buy, sell, trade, and analyze stocks, how to manage checking and savings accounts, estimate and analyze loans, and more! *This course meets 3rd year math requirements as a Career Pathway Option. Students will need to meet with their counselors to complete the registration, parent conference, and sign-off requirements prior to signing up for this course as a 3rd year math option.",
+    "tracks": [
+      "CTE",
+      "College Prep",
+      "STEM"
+    ]
+  },
+  {
+    "code": "BMD110A",
+    "name": "INTRODUCTION TO MARKETING",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Class fee of $40 that includes DECA membership and area competition | Up to 5 college credits available",
+    "description": "Introduction to Marketing gives students a distinct advantage over others no matter what they choose as their future career. The concepts of the 4 P\u2019s of marketing, target marketing, branding, selling, presentation, etc. are applied to creative and fun projects. \u00a0Our philosophy is to learn by doing and applying the concepts. I want someone who can sell rather than someone who can define how to sell. In addition, not only will we apply the material to products and services, but we also apply the material to the most important product, you. Understanding how to brand, sell, and present you will ultimately land you those coveted words \u201cYou got the job!\u201d Finally, students will instantly have a resume talking point as they will be a part of recognized organization Woodinville high school DECA. DECA gives students the opportunity to practice the skills learned in the class through competition and to build a network with business professionals and alumni in our community. The impact of marketing class goes beyond the walls of the school.",
+    "tracks": [
+      "CTE",
+      "College Prep"
+    ]
+  },
+  {
+    "code": "BMM170A",
+    "name": "MARKETING MANAGEMENT",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Completion of Advanced Marketing",
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": "Class fee of $40 that includes DECA membership and area competition",
+    "description": "This is an advanced marketing course for those students who have completed Intro and Advanced Marketing. This is the 3rd year course in the Marketing/DECA pathway and will be heavily focused on preparation for DECA competitions. In addition, management of training, hiring, firing, organization, controlling, motivating, and implementation of decisions will be covered.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "BRO105A",
+    "name": "RETAIL OPERATIONS/ STUDENT STORE",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Business & Marketing",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": "Class fee of $40 that includes DECA membership and area competition | Completion or concurrent enrollment in Marketing or with instructor approval",
+    "description": "This is a unique course involving on-campus work experience in a \u201creal\u201d retail business. Student employees are trained to operate electronic cash registers and to handle the following jobs: advertising, purchasing, inventory control, record-keeping, food preparation, stock maintenance, clothing sales, store maintenance and cleaning. Courtesy, service, honesty, confidence, and professionalism identify the successful student working in the store.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "SMA260A",
+    "name": "ADVANCED SPORTS MEDICINE",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Sports Medicine Training or completion of the Nursing Program Fee: Optional $50 Fee covers all PNW-CC courses taken in a given school year\u00a0College Info: 5 Pacific NW college credits available when grade of B or better is earned at Bellevue College (AHE 110)",
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This course builds on Beginning Sports Medicine/Athletic Training as students will focus more on how to evaluate and rehabilitate specific sports injuries. Students will continue to hone in on taping skills and techniques learned in Intro, and will learn additional taping skills pertaining to the knee and shoulder.\u00a0 Students will continue to learn advanced on-field skill including spine boarding, emergency management, splinting and EAP activation. Student's will learn prevention and rehabilitation exercises and program management.\u00a0 In addition, students will also learn about the psychological aspects of sports injury, sports nutrition, and sport pharmacology. Students enrolled are required to obtain 45 hours of athletic training experience or clinical internship at a local healthcare facility (hospital, physical therapy clinic, high school, college or professional training room, massage therapy clinic, chiropractic clinic, fire department, fitness center, dental office or dietician/nutrition center).",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEA150A",
+    "name": "ANNUAL STAFF (YEARBOOK)",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Are you interested in learning what it takes to be successful in a job? If so, yearbook is the class for you. For many students, this will be the first time they are part of a work staff. Yearbook staff members are responsible for creating a product (320-page yearbook) for paying customers (students/guardians/staff). Students in this course will produce a 320-page yearbook over the course of the year. Yearbook staff members will spend the first 6 weeks of school learning about design, photography, writing, editing, and interviewing. The rest of the school year staff will spend their time in class creating the yearbook pages in a lab-based format. Student leadership and editor positions are also open for students who want develop skills in project management and leadership. Students in this class will be responsible for taking photos during/after school. Students who don\u2019t drive or have transportation to take photos at sporting/school events after school will be given an alternate in-school photo assignment.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "YYN221A",
+    "name": "ASB OFFICER CLASS",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Must be elected to be an ASB or class officer or selected by ASB for an appointed position.",
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed to instruct students in the various methods and techniques involved in planning, implementing, and evaluating projects. Leadership skills such as parliamen\u00adtary procedure, timelines, budgeting, analysis of leadership style, and agenda planning will be stressed. Students will be given the opportunity to generate, develop and implement projects. Community service will be an integral part of this class. The course will be both project and instruction based.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VEC100",
+    "name": "EMERGENCY CERT",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "The Community Emergency Response Team (CERT) is a nationally recognized Federal Emergency Management Agency (FEMA) program that covers the topics of disaster preparedness, fire safety & suppression, disaster medical treatment, search & rescue, the Incident Command System, disaster psychology, and terrorism. Students enrolled in CERT will learn and master the skills of disaster medical treatment, fire suppression, triage, light search & rescue, and cribbing. Students successfully demonstrating the knowledge and skills of CERT will earn a FEMA certification. CERT is a skills based course ideal for students who prefer hands-on learning; throughout the semester students learn about emergency response equipment to build their own emergency response pack. In addition, students will participate in first aid training, CPR, AED (certification upon demonstration of knowledge and skills), radio communications, active shooter training, and other emergency response skills.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "YYN071",
+    "name": "PEER COACHING (ADVOCATE FOR SPECIAL EDUCATION PROGRAM)",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Peer coaches will have the experience of working directly with students with moderate to significant developmental disabilities. \u00a0Peer coaches work with students in a variety of ways including: general academic support, 1:1 direct instruction, taking data, and classroom management. Students must be reliable, respectful, conscientious, and able to take initiative. \u00a0This is a great opportunity for students interested in entering the teaching or medical fields.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VMA211",
+    "name": "SPORTS MEDICINE TRNG",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Students in this course develop and apply skills connected to different careers within the field of sports medicine and athletic training. The course is structured with both classroom and applied learning/internship components working under the supervision of the certified athletic trainer with high school sports teams. The standards for this course are based upon the National Athletic Trainers' Association six domains of responsibility/education, and the Career and Technical Education Therapeutic and Sports Medicine competencies strands.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "YYN170",
+    "name": "TUTOR ELEMENTARY",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Other CTE",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Students may tutor at Woodin or Kokanee Elementary, fourth through sixth periods, for credit. To qualify for this class, students must have good attendance, be highly responsible, and have the ability to work with students of varying abilities. \u00a0Students will assist elementary school teachers with classroom responsibilities including but not limited to: assistance with 1:1 reading, math tutoring, and general help around the classroom. Students will be paired with a teacher based on their interests and experiences. Students may be paired in a physical education, art, music, general, or dual language classroom, depending on Spanish Language experience. Students will receive a Pass/No Credit grade.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VNE682",
+    "name": "EMERGENCY CERT ACADEMY",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Satellite Programs",
+    "credits": 1.0,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Application and Acceptance",
+    "diploma_category": null,
+    "fees": null,
+    "notes": null,
+    "description": "Application: Career & College Readiness Satellite Program Application is required. The Community Emergency Response Team (CERT) is a nationally recognized Federal Emergency Management Agency (FEMA) program that covers the topics of disaster preparedness, fire safety and suppression, disaster medical treatment, search and rescue, the Incident Command System, disaster psychology, and terrorism. Students enrolled in CERT will learn and master the skills of disaster medical treatment, fire suppression, triage, light search and rescue, and cribbing. Students successfully demonstrating the knowledge and skills of CERT will earn a FEMA certification. CERT is a skills based course ideal for students who prefer hands-on learning; throughout the semester students learn about emergency response equipment to build their own emergency response pack. In addition, students will participate in first aid training, CPR, AED (certification upon demonstration of knowledge and skills), radio communications, active shooter training, and other emergency response skills.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "CTN300A",
+    "name": "MEDICAL PROFESSIONALS ACADEMY (HEALTH SCIENCE CAREERS) SKILL CENTER PROGRAM",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Satellite Programs",
+    "credits": 3.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education (1.5), Health (.5), Lab Science (1) or 3 rd credit of Science (1)",
+    "fees": null,
+    "notes": "This is a Skills Center Program offered at WHS. Fees are associated with this course for purchasing required supplies and licensing. \u00a0Up to 22 college credits available through Bellevue College.",
+    "description": "Application: Career & College Readiness Satellite Program Application is required. This intensive course of study introduces students to a variety of careers in the health care industry with emphasis on hands-on, patient-oriented careers such as physician, nurse, and other therapists. At the end of the year students are qualified for the Nursing Assistant State exam, followed by licensing as a Nursing Assistant. Instructions include: Classes meet at Woodinville High School for three consecutive periods 1-3 or 5-7. Period four is a transitional period for the students from other schools.\u00a0Clinical internship at Harborview Medical Center and other facilities are spread through the year. The WA State Nursing Assistant certification exam is conducted at the end of the school year. The fee for the exam is $156 and is paid by district. License through DOH is $85 and is paid by a student. After exam students frequently get hired by medical facilities on a spot with the starting salary around $24/hour. Other expenses: white shoes for clinicals, an analog wristwatch, and a personalized sweatshirt $50. College credit: 22 college credits through Bellevue College if your grade is B and above and you completed clinical internship. Credits are fully transferrable to other colleges.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VWE303",
+    "name": "WELDING/CORE PLUS AEROSPACE MANUFACTURING",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Satellite Programs",
+    "credits": 1.0,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Application and Acceptance",
+    "diploma_category": null,
+    "fees": null,
+    "notes": null,
+    "description": "Application: Career & College Readiness Satellite Program Application is required. The WELDING CORE PLUS AEROSPACE MANUFACTURING program provides students with training in oxy-acetylene welding and cutting, arc welding, MIG welding, and TIG welding. Students start with planning and layout work, then progress to setting up and operating welding and cutting (Oxy-Fuel, and Plasma) equipment. The students learn Shielded metal arc as well as MIG solid wire, Flux core, and TIG welding in all positions. Some of the metals we weld with are Carbon Steel, Aluminum, and Stainless Steel, to name a few. Emphasis is placed on safety as well as blueprint reading, properties of metal, metal identification, type and use of electrodes, welding rods, electrical principles, and welding symbols. In addition, The CORE Plus Aerospace manufacturing curriculum will be taught which will prepare students for high-demand jobs, apprenticeships, industry certifications, and more. The use of manuals, specification charts, and understanding the welding standards established by the American Welding Society is stressed. Training in the planning, layout, forming, joining, and fabrication of various shapes in light and heavy gauge metal and pipe is provided. Students are exposed to the use of specialized hand tools, shears, forming and shaping machines, drill presses, and metal cutting saws. Inspection and testing processes as well as procedures are also demonstrated and explained. The students will work on various projects throughout the time they are enrolled in Welding and Fabrication. We work on projects for the school, other teachers, students, outside customers, etc.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "VCP520/VCP521",
+    "name": "ADVANCED PROGRAMMING TOPICS 1 and 2",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "AP Computer Science A",
+    "diploma_category": "Career & Technical Education, 3 rd credit of Math, 3 rd credit of Science",
+    "fees": null,
+    "notes": null,
+    "description": "This course provides an opportunity for highly motivated students who have completed a yearlong college-level Computer Science course (Computer Science with C#.NET, AP Computer Science) to continue their studies in this field. The course builds on the fundamentals of object oriented programming established in APCS A. In the first semester, students will study data structures including lists, sets, maps, stacks, queues, and their own collection classes. Students will define, create and traverse trees. Students will also have the opportunity to survey other programming languages. In the second semester, students will design, plan, and create their own large scale project which could be a mobile app, desktop application, interactive website, or video game. Students in this course are expected to be self-motivated and work at a high level.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TER300",
+    "name": "ADVANCED ROBOTICS",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Successful completion of Introduction to Robotics or any other high school engineering or robotics courses.",
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed to give students with previous robotics experience the opportunity to further their knowledge. \u00a0Teams will fabricate a robot through the basic principles of design, construction, and programming while learning problem-solving techniques, mathematics, logic, creativity, physics, electronics, mechanics, computers, and computer programming. \u00a0The class is structured for both technical and non-technical students. Students will be creating their own robots through the entire design and fabrication process. \u00a0Use of metal fabrication CNC machines, CAD design, lasers, milling machines, and 3d printers will also be part of the course. \u00a0In the lab, students work as teams and will be challenged to construct robots that will perform a series of tasks. The goal of the class is to provide students the opportunity to apply science, math, technology, and engineering skills and concepts to something that is both challenging and fun.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEC107A",
+    "name": "AEROSPACE ENGINEERING (PLTW)",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education Recommendation: Completion or concurrent enrollment in Computer Aided Design (CAD) and/or VEX Robotics",
+    "fees": null,
+    "notes": null,
+    "description": "As one of the specialty courses in the Project Lead The Way Engineering pathway, this course propels students into learning in the fundamentals of atmospheric and space flight. As they explore aeronautics, rocketry, and aerospace engineering, students bring concepts to life by hands-on projects like the creation of an airfoil, propulsion system, and rockets. Students explore basic orbital mechanics, robot systems, study materials and their applications, and learn about careers in aerospace.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VCS305",
+    "name": "AI COMPUTER SCIENCE",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education, Flex Credit",
+    "fees": null,
+    "notes": null,
+    "description": "This course focuses on the symbolic inference, representation, and simulation by computers and software of human learning and reasoning processes and capabilities, and the computer modeling of human motor control and motion. Includes instruction in computing theory, cybernetics, human factors, natural language processing, and applicable aspects of engineering, technology, and specific end-use applications. In addition to programming and topics on logical structure, the course will also focus on how systems interact with other systems, human behaviors, and how they communicate. Topics include: Systems & Information Flow, Cognitive & Perceptual Foundations, Language & communication, Interface Design & Usability, Intelligent systems development, and Practical AI Applications.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEC608",
+    "name": "ANIMATION TECHNOLOGY",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This class will teach you the basics of 2D computer animation using the industry standard software Adobe Flash CS 5. Regardless of your ability to draw, you can create simple and complex animations using the unique tools and techniques of this amazing program. Learn frame-by-frame animation and \u201ctweening\u201d techniques. Learn how Flash is used in the development of web pages. Advanced students learn additional features of Flash including interactivity, action scripting, and get the opportunity to try out a 3D program.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VJP300A",
+    "name": "AP COMPUTER SCIENCE A",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education, 3 rd credit of Math, 3 rd credit of Science",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP Computer Science A test in the spring for potential college credit.",
+    "description": "This course introduces students to object oriented programming by teaching fundamental computer science concepts using the Java language. \u00a0The curriculum mirrors the CSE 142 and 143 classes at University of Washington. Students are challenged to solve problems in new ways through procedural decomposition. Students will learn definite and indefinite looping, using varying data types, crafting methods with parameters and return values, branching with conditional execution, reading and writing to files, managing arrays and other collections, crafting classes and interfaces, optimizing searching and sorting procedures, and evaluating advanced recursive algorithms.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "VJP305A",
+    "name": "AP COMPUTER SCIENCE PRINCIPLES",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of Algebra 1",
+    "diploma_category": "Career & Technical Education, 3rd credit of Math, 3rd credit of Science",
+    "fees": null,
+    "notes": null,
+    "description": "In this course, students will learn the fundamentals of computing \u2013 including problem solving, working with data, understanding the internet, cybersecurity, and programming. Students completing this course should leave with a broadened understanding of computer science for use in diverse majors and careers. Those wanting to earn AP credit will submit two \u201cthrough-course performance tasks\u201d to the College Board for grading, and will take a multiple-choice end-of-year exam. This course is not a prerequisite for AP Computer Science A, but AP Computer Science A is the logical follow-up class for students inspired to study computer science more deeply after completing this class.",
+    "tracks": [
+      "CTE",
+      "STEM"
+    ]
+  },
+  {
+    "code": "VCS200A",
+    "name": "AP CYBER SECURITY",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Successful completion of AP Computer Science Principles. OR AP Computer Science A with instructor permission.",
+    "diploma_category": null,
+    "fees": "None Diploma\u00a0 Category: Occupational Education, Career & Technical Education",
+    "notes": null,
+    "description": "AP Cybersecurity is a yearlong high school course that offers a broad introduction to the field and aligns closely with a college-level, introductory cybersecurity course. Students learn about common threats and vulnerabilities and how they combine to create risk. Students study how individuals and organizations manage risk and how risk can be mitigated through a defense-in-depth strategy. Students explore specific vulnerabilities, attacks, mitigations, and detection measures across a variety of domains including physical spaces, computer networks, devices, and data and applications. Throughout the course, students consider the impact of cybersecurity on individuals, organizations, societies, and governments. Content and skills taught in the course align with the professional skills outlined in the National Initiative for Cybersecurity Education Workforce Framework.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "VAT400A",
+    "name": "AVIATION: INTRODUCTION TO FLIGHT",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Demand for aviation talent is high, and this course gives young men and women, without any prior experience, the opportunity to explore the world of aviation. Topics include aerodynamics, careers, charts, flight planning, history of aviation and space technology, navigation, piloting and propulsion systems. Each student has access to Lockheed-Martin Prepar3D\u00ae flight simulation systems, used to master a variety of aviation skills. This remarkable simulation technology allows our students to \u201cfly\u201d a variety of aircraft, including jets, in any weather condition, to any airport in the world, using sophisticated electronic navigation techniques. At least one field trip to an aviation related organization (such as the Boeing Museum of Flight) is typically included. All students participate in the King Schools ground school video curriculum as an integral part of this course. This widely acclaimed course is intended to prepare students to pass their FAA Private Pilot written exam!",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEC105",
+    "name": "INTRO TO ENGINEERING",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This course is open to any student who would like to learn about engineering design and the processes of building things. Applying problem solving, visual communication, and design skills along with using industrial technology systems, students create and build challenging and exciting projects. Units of study include manufacturing, electricity/electronics, energy, power, computer aided drafting (CAD), structures, and architecture. Class projects will be hands-on and constructed out of a variety of materials that could include wood, metal, and plastic.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TCS200",
+    "name": "INTRODUCTION TO COMPUTER SCIENCE PRINCIPLES",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This introductory survey course, based on the UC Berkeley CS10 course, offers students a hands-on introduction to computer science that surrounds us every day. The course is far more than just learning to program. We will focus on some of the \"Big Ideas\" in computing, such as abstraction, design, recursion, concurrency, simulation, and the limits of computation. We will show some beautiful applications of computing that have changed the world, talk about the history of computing, and where it will go in the future.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TER215A",
+    "name": "INTRODUCTION TO ROBOTICS",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education, 3 rd credit of Math**",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed to give students the opportunity to explore the world of robotics through the basic principles of design, construction, and programming of robots while learning problem-solving techniques, mathematics, logic, creativity, physics, electronics, mechanics, teamwork, computers and computer programming. The class is structured for both technical and non-technical students. Students will first learn how the basic components of a robot operate and then learn to join them together to form a robot that can complete simple functions. Students will use VEX Robot kits to design, build, test and modify their own robots. In the labs, students either individually or as teams will be challenged to construct robots that will perform a series of tasks. The goal of the class is to provide students the opportunity to apply science, math, technology, and engineering skills and concepts to something that is both challenging and fun. **If the course is being taken to meet the 3\nrd\n-year math option, the student must have previously earned one credit in\nAlgebra 1 or Algebra 1 equivalent course and have earned one credit in Geometry or be concurrently enrolled in\nGeometry and the 3\nrd\n-year math option course.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEM100",
+    "name": "METAL FABRICATION",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This class is designed to provide students with knowledge of the basic concepts of\u00a0metalworking.\u00a0 Emphasis will be placed on the hands-on study of sheet\u00a0metal, forming, CNC machining, hand tool operations, and bench work practices.\u00a0 Industry standard Computer Integrated Manufacturing machines will be used frequently including CNC Waterjet, CNC milling machines, and other output machinery.\u00a0 Several project-based learning activities will be accomplished.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "BMO100",
+    "name": "MICROSOFT OFFICE CERTIFICATION",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Students may become an \u201cexpert\u201d in Word and Excel working independently using college level materials. Upon successful completion of this course, students are prepared to take the Microsoft Industry Standard certification tests and become more competitive in today\u2019s job market. This course can be repeated for additional opportunities to earn multiple Microsoft Office certifications.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEC110A",
+    "name": "PLTW CIVIL ENGINEERING AND ARCHITECTURE",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education Recommendation: Completion or concurrent enrollment in Algebra 2",
+    "fees": null,
+    "notes": null,
+    "description": "Civil Engineering and Architecture is the study of the design and construction of buildings for residential and industrial purposes. The course includes an introduction into building design and construction. Included is structural design, utilities and services, cost estimation, energy efficiency, and careers building.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEV131",
+    "name": "VIDEO PRODUCTION",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This class produces and edits video for web formatting using both computer-based and Web 2.0 based software. Podcasting, scripting, storyboarding, concept development, and video shooting are practiced and developed.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "BWE110",
+    "name": "WEB DESIGN",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Occupational Education, Career & Technical Education, The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "In this project-based course, students will learn how to build their own web pages using the languages of HTML and CSS. They will create their own live homepages to serve as portfolios of their creations. This is a one-semester course for high school students.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "TEW201",
+    "name": "WELDING TECH",
+    "subject": "Career & Technical Education",
+    "sub_subject": "Technology & Engineering",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Students will develop skills with oxyacetylene welding, cutting, and electric arc processes. Common metal joinery processes learned will include fusion welds, lap welds, and fillet welds in the flat position.",
+    "tracks": [
+      "CTE"
+    ]
+  },
+  {
+    "code": "ELL200A",
+    "name": "ELL ENGLISH 10",
+    "subject": "English",
+    "sub_subject": "English 10",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10
+    ],
+    "prerequisites": null,
+    "diploma_category": "English 10",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG200A",
+    "name": "ENGLISH 10",
+    "subject": "English",
+    "sub_subject": "English 10",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 10",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "Students will delve deeper into analytical thinking and literary analysis as they apply close, critical reading and engage in more critical thinking as they expand upon the five analytical moves within \u201cThe Writing Method\u201d outlined in their core textbook. Students will engage in the process of writing that emphasizes paragraph structure, essay development, literary analysis, and rhetorical analysis. Students will write inductive analysis and literary essays.\u00a0 They will broaden their abilities to use research skills and credible sources as they construct in-depth text interpretations. Students will interpret a variety of texts that include short fiction, novels, images, multimedia text, poetry, plays and informational passages.\u00a0 Texts will include representation of different cultures and perspectives as students broaden their understanding of relevant topics reflective of world communities.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "SPL200A",
+    "name": "LC ENGLISH 10",
+    "subject": "English",
+    "sub_subject": "English 10",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 10",
+    "fees": "N/A",
+    "notes": "None This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards.",
+    "description": null,
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG255A",
+    "name": "PRE-AP ENGLISH 10",
+    "subject": "English",
+    "sub_subject": "English 10",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 10",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This course prepares sophomores for rigorous Advanced Placement (AP) programs as it builds upon previous learning from Pre-AP English 9 with new and more complex literary and informational texts. As writers, students will compose analytical essays with a focus on craft and cohesion. Students will engage with content related to argument, persuasion in literature, voice in synthesis, and purpose in poetry and prose.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG475A",
+    "name": "AP ENGLISH LANGUAGE",
+    "subject": "English",
+    "sub_subject": "English 11",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11 or English 12",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "AP English Language and Composition is an introductory college-level composition course that culminates with the AP English Language and Composition exam in the spring. Students cultivate their understanding of writing and rhetorical arguments through reading, analyzing, and writing texts as they explore topics like rhetorical situations, claims and evidence, reasoning and organization, and style. The AP English Language and Composition course focuses on the development and revision of evidence-based analytic and argumentative writing, the rhetorical analysis of nonfiction texts, and the decisions writers make as they compose and revise. Students evaluate, synthesize, and cite research to support their arguments. Additionally, they read and analyze rhetorical elements and their effects in nonfiction texts\u2014including images as forms of text\u2014from a range of disciplines and historical periods. There are no prerequisite courses for AP English Language and Composition. Students should be able to read and comprehend college-level texts and write grammatically correct, complete sentences.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ELL300A",
+    "name": "ELL ENGLISH 11",
+    "subject": "English",
+    "sub_subject": "English 11",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG300A",
+    "name": "ENGLISH 11",
+    "subject": "English",
+    "sub_subject": "English 11",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "Students will strengthen and refine the analytical thinking, reading, writing and communication skills learned in previous grades.\u00a0 They will engage in critical, close reading of nonfiction, short fiction, argumentative essays, and a variety of literature within the context of American history.\u00a0 Students will incorporate an analytical perspective as they employ the application of literary devices, literary techniques, and ideas conveyed in the readings. Writing is extensive and includes a variety of assignments focused on literary analysis, persuasive writing, personal narrative, comparison, inductive and deductive analysis, and creative writing.\u00a0 Students will evaluate personal bias, compare/contract information, and develop a more in-depth thesis within their writing assignments. Texts will include representation of different cultures and perspectives as students broaden their understanding of relevant topics reflective of world communities.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG449",
+    "name": "ENGLISH 11: INTRO TO FOCUS ON VOICE",
+    "subject": "English",
+    "sub_subject": "English 11",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11",
+    "fees": "None",
+    "notes": "None",
+    "description": "Designed to prepare students for the advanced English 12: Focus on Voice course, in addition to giving students an opportunity to develop their public speaking and creative writing skills. Students will further their knowledge of rhetoric, logic, research, and delivery through the arts of debate and creative writing. Short stories, novels, and speeches will be analyzed for intent and effectiveness. The study of these texts will be used to influence writing in various genres. Students will be expected to formulate their own speeches and arguments that are both analytical and creative in nature, in addition to working in small groups to collaborate and give peer feedback. Students will continue to apply the skills they learned from Writing Analytically while in this class. Novels will be studied through the lens of debate, and rhetorical analysis requirements will be met through the preparation of\u00a0 arguments. Units will focus on argument development, rhetorical analysis and textual interpretation, demonstrated by engagement with Socratic Seminars, projects, and written works. Major texts may include the following: The Great Gatsby, The Things They Carried, and a novel of choice. Supplemental materials include analysis of film, art, music, current news articles, and viral videos.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG457",
+    "name": "INTRO TO MEDIA ANALYSIS",
+    "subject": "English",
+    "sub_subject": "English 11",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11",
+    "fees": "None",
+    "notes": "None",
+    "description": "This year-long course will introduce students to the basic elements of film as a medium of communication, entertainment, and, most importantly, artistic expression. The course is designed to equip students with an introductory understanding of how to read film as text as well as to develop richness, clarity, and complexity in their writing. While the course will include elements of film theory and history, the primary focus of the class is analytical in nature. With that, students will study a variety of literary and philosophical ideas and compose essays that serve as applications of these ideas to film. This combination of the close reading of film, film theory, philosophy, and literary criticism will provide a solid foundation for meaningful interpretation in the high school and beyond.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "SPL300A",
+    "name": "LC ENGLISH 11",
+    "subject": "English",
+    "sub_subject": "English 11",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG480A",
+    "name": "AP ENGLISH LITERATURE AND COMPOSITION",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 11 or English 12",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Advanced Placement Literature and Composition is a year-long, college-level course that culminates with the AP Literature and Composition exam in the spring. Students will participate in reading, analyzing, and writing about imaginative literature (fiction, poetry, drama) from various periods. Students will engage in close reading and critical analysis of imaginative literature to deepen their understanding of the ways writers use language to provide both meaning and pleasure. As they read, students consider a work\u2019s structure, style, and themes, as well as its use of figurative language, imagery, and symbolism. Writing assignments include expository, analytical, and argumentative essays that require students to analyze and interpret literary works. There are no prerequisite courses for AP English Literature and Composition. Students should be able to read and comprehend college-level texts and write grammatically correct, complete sentences.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ELL400",
+    "name": "ELL ENGLISH 12",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG452A",
+    "name": "ENGLISH 12: FOCUS ON CULTURE",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "Designed to prepare students for the rigor and pace of college study, this course requires students to consistently demonstrate a commitment to rhetoric and the study of contemporary issues. Students will also study the personal arenas that shape them, including culture, gender, race, and socioeconomic status. Students will read a core collection of well- known essays, current articles, and short fiction and engage with video, radio segments, and photos on a wide range of topics. Improvement of close analysis, reading, presentation skills, and writing will be stressed. Students will continue their study of Writing Analytically with a focus on Critical Lens Essays and Academic Conversations.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG450A",
+    "name": "ENGLISH 12: FOCUS ON FICTION",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "Designed to prepare students for the rigor and pace of college study, this course requires students to consistently demonstrate a commitment to and a competence in language arts study. Students will read challenging texts from world literature, write analytical essays, and read secondary critical sources. Throughout the course of the year, students will explore works of fiction, including full-length novels and plays as well as thematically related non-fiction, examining several different perspectives on a given subject, appreciating the wide range of opinions on that subject, and advancing their own ideas within the framework of current debates on the topic. Students will continue their study of Writing Analytically with a focus on Critical Lens Essays and Academic Conversations.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG451A",
+    "name": "ENGLISH 12: FOCUS ON THE CLASSICS",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": null,
+    "duration": null,
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "Commitment to attend evening and weekend performances",
+    "description": "Designed to prepare students for the rigor and pace of college study, this course requires students to read selections from the classics of world literature and place them in the social, cultural, and historical contexts in which they were created, culminating in our attendance at evening and weekend performances to see live examples of what we study. Researching and writing critical analysis essays about these selections, their contexts, and the performances will be a major component of this class. Students will continue their study of Writing Analytically with a focus on the rhetorical analysis of various art forms, including visual art, music, architecture, and stage performances that were prolific in these contexts.\u00a0Student can expect to read at home.\u00a0Fees for attending the weekend and evening performances vary. Financial aid available, please see your counselor.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG453A",
+    "name": "ENGLISH 12: FOCUS ON VOICE",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "Designed to prepare students for the rigor and pace of college study, this course will have students further their knowledge of rhetoric, logic, research, and delivery through the arts of debate and creative writing. Poetry, short stories, plays, novels and speeches will be analyzed for their intent and effectiveness. The study of these texts will be used to influence writing in various genres. Routine collaboration and peer feedback workshops will be an expectation. Culminating projects will be both analytical and creative in nature. Students will continue their study of Writing Analytically with an emphasis on rhetorical awareness of audience. Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG456A",
+    "name": "ENGLISH 12: MEDIA ANALYSIS",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This year-long course is an in-depth study of film as a medium of communication, entertainment, and artistic expression. The course is designed to equip students with a greater understanding of how to read film as text as well as to develop richness, clarity, and complexity in their writing. While the course will include elements of film theory and history, the primary focus of the class is analytical in nature. With that, students will study a variety of critical and literary theories and compose essays that serve as applications of these theories to film. This combination of the close reading of film, film theory, and literary criticism will provide a solid foundation for meaningful interpretation in the high school and beyond.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "SPL450A",
+    "name": "LC ENGLISH 12",
+    "subject": "English",
+    "sub_subject": "English 12",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 12",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ELL100A",
+    "name": "ELL ENGLISH 9",
+    "subject": "English",
+    "sub_subject": "English 9",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 9",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed to help develop the English language in an academic setting through a focus on reading, writing, speaking, and listening. Students will master the necessary language skills through various forms of listening and speaking: direct instruction, peer-to-peer exercises, teacher-student collaboration, and presentations. Reading and writing development is practiced daily, per student need and grade level, and aligns with both the Common Core State Standards and ELPS Standards. The expectation is that students can use texts like Writing Analytically to help develop analysis methods for novels and articles used to supplement this skill building. In the end, this course aims to provide an environment that supports and fosters student language growth based on individual English language needs.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG100A",
+    "name": "ENGLISH 9",
+    "subject": "English",
+    "sub_subject": "English 9",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 9",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "Students will be introduced to analytical thinking and literary analysis as they apply close, critical reading and writing strategies that focus on literary elements and the writer\u2019s craft. Students will write narrative and argumentative essays. They will broaden their understanding of language use with attention to word choice, imagery, tone, and figurative language to convey ideas. Students will use a specific process that involves five analytical moves referred to in \u201cThe Writing Method\u201d as outlined in their core textbook. Students will interpret a variety of texts that include short fiction, novels, images, multimedia text, poetry, plays and informational passages. \u00a0Texts will include representation of different cultures and perspectives as students broaden their understanding of relevant topics reflective of world communities.\u00a0Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "SPL100A",
+    "name": "LC ENGLISH 9",
+    "subject": "English",
+    "sub_subject": "English 9",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 9",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This class is designed for students receiving Special Education services and will be targeted at individual learning goals. Reading and writing development is practiced daily, per student need and grade level, and align with the Common Core State Standards.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ENG160A",
+    "name": "PRE-AP\u00a0ENGLISH 9",
+    "subject": "English",
+    "sub_subject": "English 9",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9
+    ],
+    "prerequisites": "None",
+    "diploma_category": "English 9",
+    "fees": "N/A",
+    "notes": "None",
+    "description": "This course establishes the skills necessary for a successful progression of learning for advanced high school ELA coursework. Students will be introduced to fundamentals of close observation, critical analysis, and the author\u2019s craft.\u00a0 Students will engage in readings that attend to small details within a text that deepen the meaning of the whole passage.\u00a0 Students will also write complex sentences that lead to lengthier writing.\u00a0 In addition, vocabulary will be enhanced and speaking skills will be practiced in this course. Student can expect to read at home.",
+    "tracks": [
+      "Language Arts"
+    ]
+  },
+  {
+    "code": "ART112",
+    "name": "ART MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "BCS115",
+    "name": "COMPUTER SCIENCE MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "ELA115",
+    "name": "ELA MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "TJU110",
+    "name": "JOURNALISM",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Flexible credits The course would be broken up into 3 units. Senior \u201cAdulting\u201d and Life Planning Class is a course offered in order to prepare seniors (and juniors) for the next phase of life. Let\u2019s face it, \u201cadulting\u201d can be difficult in 21st Century America, and this next chapter of life can feel, well, a bit daunting! However, this anxiety can be diffused with just a little planning and foresight. The course objective is to provide units of study around what is needed to \u201cadult\u201d well, and to end the course with a plan for the life ahead. The course would be a semester-long elective. The units would be as follows: Unit 1\u2013College life planning--Including aptitude testing, research \u2014 3 career interests--Ending in an internship. Unit 2\u2013Life planning--What is a financial plan, and how to implement it--including how to pay taxes. We will also delve into what makes people happy (in 21st century), mindfulness and exercise etc...Unit 3\u2013 Interpersonal Relationships--What does good communication look like?! What makes for a healthy marriage, parenting, and even what a healthy single life looks like. The course would end with a presentation\u2014A solid plan for the next year of life.",
+    "fees": null,
+    "notes": null,
+    "description": "By enrolling in this course, students will become members of the Woodinville News staff. This course will introduce students to all aspects of journalism, including but not limited to journalistic ethics, news writing, reporting, interviewing, photography, editing, and audio/video production. Students will report on happenings relevant to our school community by creating content for the school news website. Over the course of the year, students will complete units on news writing, photojournalism, audio reporting, and video production. In addition to creating their own news coverage, students will read and discuss current events, using these examples as mentor texts. YYN890\n\u2013 \u201cADULTING\u201d 101: A LIFE PLANNING COURSE",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "YYN210",
+    "name": "LEADERSHIP CLASS",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Flexible Credits",
+    "fees": null,
+    "notes": null,
+    "description": "Are you interested in becoming involved in school leadership activities? In this course, students will learn to develop and strengthen leadership abilities by actively planning leadership lessons, working on committees, and participating in planning sessions. Students will be given the opportunity to participate in activities associated with homecoming, assemblies, school dances, and community service projects. Students will also be a part of the advertisement and promotion of school and community activities. Be a part of school leadership and make a difference in your school and the community.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "MAT110",
+    "name": "MATH MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "SCI110",
+    "name": "SCIENCE MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "SSS115",
+    "name": "SOCIAL STUDIES MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "WLM100",
+    "name": "WORLD LANGUAGE MENTOR",
+    "subject": "Flexible Credits",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Teacher permission",
+    "diploma_category": "Flexible credits",
+    "fees": null,
+    "notes": null,
+    "description": "Course is available either semester. Mentors work with a variety of students with a wide range of abilities.\u00a0 Mentors will be trained on instructional methods, data collection, and social interactions through \u201cjob shadowing\u201d and \u201con the job\u201d observations. Pass/Fail credit is given for the course. Math Mentors must be in a high-level math class and would mentor in all lower level classes.",
+    "tracks": [
+      "Elective"
+    ]
+  },
+  {
+    "code": "PDA203A",
+    "name": "DANCE",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "PE 9-12 and Life Fitness",
+    "fees": null,
+    "notes": null,
+    "description": "Dance is a yearlong class that will count for count for 1.0 Physical Education.\u00a0This class begins with an overview of human anatomy as it relates to dance movement, along with various injury-prevention techniques and standard dance terms. Nutrition and fluid intake will also be presented. A large portion of the introductory classes are devoted to stretching and conditioning, emphasizing proper placement and technique. As the class progresses and the students become more familiar with the basic stretches, isolation, and walks, more focus and time can be shifted to combination's. Students will learn routines from different styles that will be performed for an audience on multiple occasions. Student projects will include a critical book review, one dance critique, and one performance with summation. Participation is mandatory.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "HEA410",
+    "name": "HEALTH",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Health",
+    "fees": null,
+    "notes": null,
+    "description": "Total well-being\u2014mentally, physically, and socially is what health is about. This course has been developed to help gain knowledge and learn behaviors that are essential to increase one\u2019s quality of life now as well as invest in future wellness. Topics include; mental and emotional health, nutrition, fitness, human sexuality, disease prevention, drug use, abuse and addiction, and first aid and CPR. The goal is to help students understand the choices they make every day and the consequences of those choices.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "PLF200",
+    "name": "LIFE FITNESS",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10
+    ],
+    "prerequisites": null,
+    "diploma_category": "Life Fitness",
+    "fees": null,
+    "notes": null,
+    "description": "Life Fitness is a course designed to develop a foundation of knowledge and skills that teaches students how to develop and maintain fitness throughout their lives. Students will learn how to take responsibility for their personal fitness and will be provided with the tools they need to assess fitness and create goals, acquire skills to properly exercise and monitor themselves, develop sound nutrition habits, and design and implement a personal program of exercise. An emphasis is placed upon the significance of how an active, healthy lifestyle improves a person's quality of life. Activities include resistant training, flexibility training, and cardiovascular training. The lessons provide students with concepts-based activities that are focused on student learning targets and develop literacy about fitness.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "PRS202",
+    "name": "LIFE FITNESS RACKET SPORTS",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "PE 9-12\u00a0and Life Fitness",
+    "fees": null,
+    "notes": null,
+    "description": "This class is an introduction to racket sports with an emphasis on basic skills, rules, and strategies. Badminton, pickle ball, ping pong as well as a few other racket/net games will be taught.\u00a0 Students will be involved in designing and playing various tournaments. This class will also include activities designed to increase muscular strength/endurance, cardiovascular endurance, and flexibility.\u00a0 Activities will include jogging, body weight exercises, core strengthening, and stretching.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "PTS102",
+    "name": "LIFE FITNESS TEAM SPORTS",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "PE 9-12\u00a0and Life Fitness",
+    "fees": null,
+    "notes": null,
+    "description": "This class will offer students the opportunity to participate and improve their skills in a wide variety of team sports.\u00a0 Such activities may include basketball, flag football, floor hockey, soccer, softball, speedball, team handball, ultimate Frisbee, and volleyball.\u00a0 Curriculum will vary depending on the time of year and availability of facilities. This class will also include activities designed to increase muscular strength/endurance, cardiovascular endurance, and flexibility.\u00a0 Activities will include jogging, body weight exercises, core strengthening, and stretching.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "PLF235",
+    "name": "LIFE FITNESS WEIGHTS",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Life Fitness and PE 9-12",
+    "fees": null,
+    "notes": null,
+    "description": "Students will acquire knowledge so that they can make informed decisions on a lifetime fitness program and the importance of maintaining a level of fitness.\u00a0 This course includes cardiovascular training, lectures/portfolios, resistance training, and weight training.\u00a0This class includes activities designed to increase muscular strength/endurance, cardiovascular endurance, and flexibility.\u00a0 Activities will include jogging, body weight exercises, core strengthening, and stretching.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "PLF240",
+    "name": "LIFE FITNESS YOGA",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Life Fitness and PE 9-12",
+    "fees": null,
+    "notes": null,
+    "description": "Students will acquire knowledge so that they can make informed decisions on a lifetime fitness program and the importance of maintaining a level of fitness. Participation in Yoga is about creating balance in the body through developing both flexibility and strength. Yoga can lead to better overall physiological functioning throughout the body.\u00a0 The practice of Yoga can help a student become more mentally and emotionally centered.\u00a0 Students will increase their flexibility and strength and also gain a better understanding of the importance of fitness and having balance in their lives. This class includes activities designed to increase muscular strength/endurance, cardiovascular endurance, and flexibility.\u00a0 Activities will include jogging, body weight exercises, core strengthening, and stretching.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "PLF241",
+    "name": "LIFE FITNESS YOGA/WALKING (WALKING CLASS ONLY)",
+    "subject": "Health & Fitness",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "Life Fitness,\u00a0 PE 9-12",
+    "fees": null,
+    "notes": null,
+    "description": "The goal of this course is to improve personal fitness through a variety of walking, light jogging, body weight exercises, core strengthening, and stretching.\u00a0 Campus walks, neighborhood walks, power walking, orienteering, and various movement games will be included.",
+    "tracks": [
+      "Health & Fitness"
+    ]
+  },
+  {
+    "code": "MAD300",
+    "name": "ADVANCE MATH TOPICS",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "AP Calculus BC (AP Calculus BC class must cover the required multivariable calculus concepts required for Linear Algebra.)",
+    "diploma_category": "3rd Credit of Math, Algebra I, or Algebra II",
+    "fees": null,
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84. It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed. College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+    "description": "Advanced Math Topics (AMT) is a course designed for students who have completed (MATH&254) Calculus IV. Students in AMT will self-select a survey of introductory course modules ranging from the following topics: Intermediate Multivariable Calculus, Linear Algebra, Differential Equations, Discrete Mathematics, Abstract Algebra, and Group Theory, maybe some Advanced Euclidian Geometry if time permits.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MAL100A",
+    "name": "ALGEBRA I",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Algebra I",
+    "fees": "None",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+    "description": "This course expands on the students\u2019 understanding of using arithmetic operations and properties to include the symbolic language of algebra. Students will formalize their understanding of functions with a focus on linear functions, quadratic functions, and exponential functions. Other topics that will be studied are writing equations to model linear equations, solving systems of linear equations and inequalities, solving quadratic equations with real roots, exponent laws and properties, and data analysis. Students will continue to develop problem solving, reasoning and proof, communication, and mathematical modeling skills aligned to the Standards for Mathematical Practice.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MAL140A",
+    "name": "ALGEBRA II",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra I and Geometry",
+    "diploma_category": "3rd Credit of Math",
+    "fees": "None",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+    "description": "Students will review, and expand, their understanding of number systems (complex numbers will be introduced) and will grow more proficient in their use of algebraic techniques. This course focuses on the study of functions: linear, quadratic, exponential, logarithmic, square root, cubic, and those involving inverse variation. Other topics that may be studied are combinations and permutations, probability, binomial theorem, measures of variability, and geometric and arithmetic sequences and series. This course meets the third year math requirement for high school graduation and college admission requirements.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MAL185A",
+    "name": "ALGEBRA II/TRIGONOMETRY",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra I and Geometry",
+    "diploma_category": "3rd Credit of Math",
+    "fees": "None",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+    "description": "The breadth and depth are greater than that of the Algebra 2 course. Students will expand their understanding of number systems to include complex numbers and will grow more proficient in their use of algebraic techniques. This course focuses on the study of functions: linear, absolute value, piecewise, quadratic, exponential, logarithmic, square and cube root, cubic, and those involving inverse variation and rational functions. Students will study periodic and trigonometric functions. This course meets the third-year math requirement for high school graduation and college admission requirements. This course will prepare students for AP Precalculus and later Calculus.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MCA110A",
+    "name": "AP CALCULUS AB",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "AP Prep Precalculus",
+    "diploma_category": "3rd Credit of Math, Geometry, or Algebra I",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+    "description": "The first semester of the course is equivalent to Math 151 (Differential Calculus). Both programs include a conceptual development, a formal development, and applications of basic differential and integral calculus. Emphasis is on process, problem solving, and clear communication of ideas and techniques. Students will have the option of taking the AP \u2018AB\u2019 Exam in the spring.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MCA111A",
+    "name": "AP CALCULUS BC",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "AP Calculus AB",
+    "diploma_category": "3rd Credit of Math, Geometry, or Algebra I",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.\u00a0 Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "AP Calculus II is a course designed for students who have successfully completed Calculus I. The first semester of this course is equivalent to Math 152 (Integral Calculus). The curriculum builds on Calculus I and extends to cover a second quarter and part of a third quarter of college calculus. Topics of study may include advanced integration techniques and applications, functions of several variables, parametric and polar functions, sequences and series, and vectors in R2 and R3.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MPC250A",
+    "name": "AP PREP PRE-CALCULUS",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra II",
+    "diploma_category": "3rd Credit of Math, Geometry, or Algebra I",
+    "fees": "None",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed. This course is not designated as an AP Course.",
+    "description": "The breadth and depth of this course are greater than that of Precalculus. This course covers the Precalculus content with greater breadth and depth at a college level of rigor. Students will continue to build and expand upon their understanding of functions and equations to include quadratic, exponential, logarithmic, polynomial, rational, radical, power, and trigonometric functions. The purpose of this course is to prepare students for Calculus the following year.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MCA130A",
+    "name": "AP STATISTICS",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra II or Algebra II/Trigonometry",
+    "diploma_category": "3rd Credit of Math, Geometry, or Algebra I",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.\u00a0 Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "This course is designed to offer a continued study of quantitative thinking in the areas of statistics and probability. Throughout this course students will be introduced to the major concepts and tools for collecting and analyzing data as it relates to four conceptual themes: exploring data, sampling and experimentation, anticipating patterns, and statistical inference. This course reflects the content of a typical introductory college level statistics course. This course may be taken concurrently with another mathematics course offering.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MGE100A",
+    "name": "GEOMETRY",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra I or Concurrent Enrollment in Algebra I",
+    "diploma_category": "Geometry",
+    "fees": "None",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+    "description": "Students will build upon algebraic skills from Algebra 1 by applying them to new geometric concepts. Students will formalize their reasoning skills to write proofs built on definitions, axioms, and theorems. Students will study symbolic logic, parallel and perpendicular lines, triangle properties, quadrilateral properties, and properties of other polygons and circles. Other topics that will be studied are similar and congruent figures, right triangle trigonometry, coordinate geometry, geometric transformations, area, surface area and volume of three-dimensional figures.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "CHS160",
+    "name": "INTRODUCTION TO LINEAR ALGEBRA (MATH 208)",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "AP Calculus BC (AP Calculus BC class must cover the required multivariable calculus concepts required for Linear Algebra.)",
+    "diploma_category": "3rd Credit of Math, Geometry, or Algebra I",
+    "fees": "Students who choose to take this course for college credit must pay the college fee. Financial aid available, please see your counselor.",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84. It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed. College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+    "description": "Introduces the vocabulary, algebra, and geometry of vector spaces in \u2018R\u2019 and function spaces. Students use matrix methods and vectors to explore systems of linear equations and transformations. Fulfills the quantitative or symbolic reasoning course requirement.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "MPC100A",
+    "name": "PRE-CALCULUS",
+    "subject": "Mathematics",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra II or Algebra II/Trigonometry",
+    "diploma_category": "3rd Credit of Math or Algebra I",
+    "fees": "None",
+    "notes": "High School level math courses require students to use a graphing calculator such as TI-83/TI-84.\u00a0 It is recommended that students purchase their own personal calculator, however the school will provide a calculator as needed.",
+    "description": "Students will continue to review, build and expand upon their understanding of functions and graphs. This course prepares students to advance their levels of analysis to include asymptotic behavior, domain restrictions, degree and factorization and it incorporates more advanced forms of mathematical symbology like interval notation. Trigonometry, quadratic, exponential, logarithmic, polynomial, rational, radical, power, and trigonometric functions is a major focus of this course.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCB316A",
+    "name": "ADVANCED BIOTECHNOLOGY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Biology or Biotechnology.\u00a0 Biotechnology is strongly recommended.",
+    "diploma_category": "Career & Technical Education, Lab Science, or 3rd Credit of Science",
+    "fees": "Students who choose to take this course for college credit must pay the college fee.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+    "description": "This course is a continuation of biotechnology, thus successful completion of biotechnology is a requirement for this class. The main focus of this course will be to continue to learn more biotechnology skills and apply those to independent and group research projects. In addition, students will work with mentors from the professional community to complete a culminating project that will be showcased at the annual BioExpo competition hosted by Shoreline Community College. A field trip to explore the University of Washington Medical Center (depending on space availability) and/or local Biotech laboratories will also take place during the year. Opportunities for event preparation for HOSA will also be available in this course.",
+    "tracks": [
+      "CTE",
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCH300",
+    "name": "ADVANCED HUMAN ANATOMY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Introduction to Human Anatomy",
+    "diploma_category": "Career & Technical Education,\u00a0Lab Credit or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "Advanced Human Anatomy is a semester class in which students will continue to learn about the different body systems, and how these systems work together to help an organism function and maintain homeostasis. Students will begin to connect systems together during in depth case studies and projects. Students will complete a variety of lab activities and dissections that will help them visualize and understand the structure and function of the systems. Students will also get to explore careers in the medical and health field with practical skills, research, and guest speakers.",
+    "tracks": [
+      "CTE",
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCB180A",
+    "name": "AP BIOLOGY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Chemistry or Concurrent Enrollment in Chemistry",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Advanced Placement (AP) Biology is a year-long college level course designed to prepare students to do well on the AP Biology exam in the spring. Students cultivate their understanding of biology through inquiry-based investigations and hands-on science laboratory work as they explore topics like evolution, energetics, information storage and transfer, and system interactions. Students will be able to describe how to collect data, use data to form conclusions, and apply their conclusions to larger biological concepts. Students will report recorded data and quantitative conclusions drawn from the data with appropriate precision. Students will also develop an understanding of how changes in the design of the experiments will impact the validity and accuracy of their results. This course meets college entrance requirements for an algebra-based science.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCC160A",
+    "name": "AP CHEMISTRY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Chemistry",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Advance Placement (AP) Chemistry is a year-long, introductory college-level course designed to prepare students for the AP Chemistry exam in the spring.\u00a0 Students will delve more deeply into the concepts covered in first-year chemistry. Students will cultivate their understanding of chemistry through inquiry- based investigations, as they explore content such as: atomic structure, intermolecular forces and bonding, chemical reactions, kinetics, thermodynamics, and equilibrium. This class will encompass the same materials as covered in Chemistry 140-160 at the University of Washington (and most other college General Chemistry courses). The class will pick up where Chemistry left off, moving quickly into the application of equilibrium concepts to gaseous, ionic and acid-base systems.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCE200A",
+    "name": "AP ENVIRONMENTAL SCIENCE",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Lab Credit or 3rd Credit of Science Recommended: Successful completion of Algebra I and one year of science.",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "This class will provide students with the opportunity to explore and investigate the interrelationships of the natural world and analyze environmental problems, both natural and human-made. You\u2019ll take part in laboratory investigations and field work. Explore a view of planet Earth as one system (with geologic features, atmosphere and climate) and the importance of biodiversity within those ecosystems. Examine how populations change over time, and the factors that affect population growth. Learn how humans use and consume natural resources (including renewable and nonrenewable sources of energy), and the ways in which we disrupt ecosystems, both positively and negatively. You\u2019ll come to understand the global impact of local and regional human activities and evaluate and propose solutions.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCP181A",
+    "name": "AP PHYSICS 1",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra II or Algebra II/Trig\u00a0 or Concurrent Enrollment in Algebra II or Algebra II/Trig",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Advanced Placement (AP) Physics 1 is the equivalent to a first-semester college course in algebra-based physics. This course is designed to prepare students for the AP Physics I exam in the spring. AP Physics 1 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through inquiry-based investigations as they explore these topics: kinematics, dynamics, circular motion and gravitation, energy, momentum, simple harmonic motion, torque and rotational motion. Students will engage in hands-on science labs and keep a lab notebook throughout the course.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCP182A",
+    "name": "AP PHYSICS 2",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "AP Physics I or Physics",
+    "diploma_category": "Lab Science, 3rd Credit of Science, or 3rd Credit of Math",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Advanced Placement (AP) Physics 2 is the equivalent to a second-semester college course in algebra-based physics. This course prepares students for the AP Physics 2 exam for the spring. Students cultivate their understanding of physics through inquiry-based investigations as they explore these topics: fluids; thermodynamics; electrical force, field, and potential; electric circuits; magnetism and electromagnetic induction; geometric and physical optics; and quantum, atomic, and nuclear physics.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCP183A",
+    "name": "AP PHYSICS C: MECHANICS, ELECTRICITY, AND MAGNETISM",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "1 year of Calculus",
+    "diploma_category": "Lab Credit or 3rd Credit of Science",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Mechanics is a calculus-based, college-level physics course. It covers kinematics; Newton\u2019s laws of motion; work, energy, and power; systems of particles and linear momentum; circular motion and rotation; oscillations; and gravitation. It is strongly recommended that AP Physics C: Mechanics be taught as a second-year physics course. A first-year physics course aimed at developing a thorough understanding of important physical principles and that permits students to explore concepts in the laboratory provides a richer experience in the process of science and better prepares them for the more analytical approaches taken in AP Physics C: Mechanics.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCB100A",
+    "name": "BIOLOGY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "Biology is the study of the living world and our relationship to it. This course is aligned to the NGSS (WSSLS) high school performance expectations for life science and also integrates sustainability principles. As a result, the major disciplinary themes are: metabolism, behavior, genetics, evolution, ecology and sustainability. Students will engage in both science and engineering practices as they explore the themes and relate them to the cross-cutting concepts of science. Biology concepts are frequently built upon real-world, anchoring phenomena or problems with inquiry-based questions. Students explore answers to science-based questions through collaborative lab work, simulations and practice activities, lectures and online resources.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCB315",
+    "name": "BIOTECHNOLOGY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Career & Technical Education, Lab Science, or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "Biotechnology is a CTE course designed to teach and reinforce concepts fundamental to biology with a focus on current biotechnological research and modern laboratory technology. It is an exciting, but challenging course best suited for students who are seriously interested in pursuing careers in the medical or biotechnology fieldsStudents will learn how to use biotechnology equipment as they explore topics like:\u00a0 cancer, genetically modified organisms, world hunger, genetic engineering, bioethics, diseases and wildlife conservation.\u00a0 Students will also be exposed to career opportunities in the biotechnology and biomedical fields throughout the year.\u00a0 Students who take this course without having taken biology first should already have very strong study habits and be able to work independently.\u00a0 This course counts as both a science and CTE credit and will provide students who are in HOSA (Health Occupations Students of America) opportunities for extra event practice and help.",
+    "tracks": [
+      "CTE",
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCC100A",
+    "name": "CHEMISTRY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra II or Algebra II/Trig or concurrent enrollment in Algebra II or Algebra II/Trig",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "Chemistry is the study of matter and the chemical reactions between substances. This course is aligned to the NGSS (WSSLS) high school performance expectations for physical science that also integrates climate change.\u00a0 The major content of the course will center on the nature of matter and the changes it undergoes at the atomic level. Students will engage in both science and engineering practices as they learn about the content and relate them to the cross- cutting concepts of science. Chemistry concepts are frequently built upon real-world, anchoring phenomena or problems with inquiry-based questions. Students explore answers to science-based questions through collaborative lab work, simulations and practice activities, lectures, and online resources.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "VFS204",
+    "name": "FORENSICS 1",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "One year high school lab science",
+    "diploma_category": "Career and Technical Education,\u00a03rd Credit of Science, or Lab Science",
+    "fees": null,
+    "notes": null,
+    "description": "Introduces students to the basics of how crimes are solved using science. It is a real world application based class that gives students hands on learning experiences in solving crimes. Students will learn concepts related to blood spatter, DNA fingerprinting, fingerprints, handwriting analysis, and human remains.\u00a0This course was previously named \"Introduction to Forensic Science\".",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "VFS205",
+    "name": "FORENSICS 2",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Forensics 1",
+    "diploma_category": "Career and Technical Education,\u00a03rd Credit of Science, or Lab Science",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed to be taken after forensics 1. Students will build upon what they have learned in\u00a0forensics 1\u00a0and explore more advanced concepts within the field. Students will learn how to collect and analysis glass, soil, hair, fiber, and impression evidence\u00a0as well as learn toxicology and arson within forensic science. This course was previously named Advanced Forensics.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "VFS206A",
+    "name": "FORENSICS 3",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Forensics 1 and 2",
+    "diploma_category": "Career and Technical Education,\u00a03rd Credit of Science, or Lab Science",
+    "fees": "Students who choose to take this course for college credit must pay the college fee.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+    "description": "Forensic Science 3 is an in-depth exploration of the principles, methodologies, and technologies employed in modern forensic investigations. Designed for students with a foundational understanding of forensic science, this course delves into advanced techniques in crime scene analysis, evidence collection, and laboratory procedures. Students will engage in case studies of historical and contemporary criminal investigations which will provide real-world applications, fostering critical thinking and problem-solving skills. Students will also be demonstrating their mastery of laboratory techniques through designing an experiment, collecting data, and presenting their findings. The course emphasizes the integration of scientific rigor and ethical practices, preparing students for careers in forensic science, law enforcement, or related fields. By the end of the course, students will demonstrate proficiency in utilizing forensic tools, constructing detailed forensic reports, and applying multidisciplinary approaches to solving complex cases.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCA200",
+    "name": "INTRODUCTION TO HUMAN ANATOMY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Career & Technical Education, Lab Credit or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "This course is designed for students who are interested in careers working with and around the human body; such as medicine, cosmetology, healthcare support occupations, physical therapy, dentistry, chiropractic, fitness training, nursing, occupational therapy, massage therapy and sports medicine among others. The structure and function of the human body is the focus of study. Extensive labs and activities support concepts learned\n.",
+    "tracks": [
+      "CTE",
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCM100A",
+    "name": "MARINE BIOLOGY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": null,
+    "notes": null,
+    "description": "This course explores marine biodiversity and how organisms have adapted to the physical and chemical pro\u00adcesses of the oceans and each other. Current environmental and political issues that affect the health of the world\u2019s oceans and Puget Sound are also examined. Content: Units include the composition of seawater, tides, currents and the types of marine habitats, oceanography, and human impacts. It also includes the classification, natural history, identification, and special adaptations of marine organisms. Students will practice observation skills, listening and reading comprehension, dissection, chart interpretation, data analysis, classification, and identification of specimens. Good attendance is required for lecture notes and laboratory work. Homework will include reading and summarizing articles, solving problems, completing class work, and Internet research. Students will learn to identify local species and tropical species at the Seattle Aquarium.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCP100A",
+    "name": "PHYSICS",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Algebra I",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "This course is aligned to the NGSS (WSSLS) high school performance expectations for physical science. The major content of the course will center on exploring charge, magnetism, energy, force, gravitation, and waves. Students will engage in both science and engineering practices as they learn about the content and relate them to the cross-cutting concepts of science. Physics concepts are frequently built upon real-world, anchoring phenomena or problems with inquiry-based questions. Students explore answers to science-based questions through collaborative learning, simulations and practice activities, lectures, and online resources.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCB181A",
+    "name": "PRE AP BIO/CHEMISTRY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9
+    ],
+    "prerequisites": "Algebra II or concurrent enrollment in Algebra II",
+    "diploma_category": "Lab Science or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "This course is designed to give students interested in science and intending to take AP Biology and/or AP Chemistry the strong foundation in content and scientific practices necessary to succeed without taking two years of coursework to do so.\u00a0 The curriculum is aligned to the NGSS high school performance expectations for biology and chemistry and emphasizes experimental methodologies.\u00a0 Students will participate in developing scientific questions, plan and implement scientific investigations, analyze data, and formulate scientific explanations in this demanding and engaging course.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SCZ100",
+    "name": "ZOOLOGY",
+    "subject": "Science",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Biology, Lab Science or 3rd Credit of Science",
+    "fees": "None",
+    "notes": null,
+    "description": "This course explores the natural history of animals, concentrating on behavioral, ecological, and physiological adaptations of the major groups of animals, with special attention to Pacific Northwest species. Content will include the natural history of the major groups of animals, taxonomy, survey of animal phyla, adaptations, the human use of and impact on animal resources, and extinction. Students will utilize observation skills, listening and reading comprehension, dissection, data analysis, classification, and identification of specimens. Students will also complete individual and group projects.",
+    "tracks": [
+      "STEM"
+    ]
+  },
+  {
+    "code": "SSA400A",
+    "name": "AP ART HISTORY",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Flexible",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Advanced Placement Art History is a challenging and exciting course for students. The class is designed to introduce students to the understanding, appreciation, and enjoyment of works of art. The class study begins with the ancient world and continues through the current day. We will cover the development of artistic styles, major movements and figures, mediums and techniques, architecture, and make relevant historical connections.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSM401A",
+    "name": "AP EUROPEAN HISTORY",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "World History",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "Study will begin with the Renaissance, focus on major events and conclude with modern times. Because of the emphasis on preparation for the AP Exam and the resulting potential college credit, work levels will be more demanding and only motivated students should take this class. AP European History is an accelerated class that prepares the student to take the AP European History test in the spring. \u00a0This is a demanding course with a significant homework requirement.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "APP100A",
+    "name": "AP PSYCHOLOGY",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Flexible & Career and Technical Education",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "The Advanced Placement Psychology course is designed to introduce students to the systematic and scientific study of human mental processes and behavior. Students are exposed to the psychological facts, principles, and phenomena associated with each of the major subfields within psychology (such as: history and approaches, research methods, biology and behavior, learning and cognition, developmental and abnormal psychology, and social psychology). Students will also learn about careers in psychology and the pathways to additional training. This course is equivalent to an introductory college course in psychology.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "APH200A",
+    "name": "AP UNITED STATES HISTORY",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "US History",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "The AP Program in United States History is designed to provide students with analytical skills and factual knowledge necessary to deal critically with the problems and materials in United States history. This program prepares students for immediate and advanced college courses by making demands upon them equivalent to those in full-year introductory college courses. This accelerated survey course will cover topics from the Age of Discovery to the present. This is a demanding course with a significant homework requirement.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSG422A",
+    "name": "AP US GOVERNMENT & POLITICS",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": ".5 Civics & .5 Contemporary World Problems",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP\u00a0 exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "This course provides both a study of broad, general concepts of the United States political system, as well as the analysis of specific case studies. Basic concepts include the Constitutional basis of the US Government, political ideals and behaviors, the political party system, institutions of the national government, public policy and civil rights/liberties. Emphasis is placed on critical thinking skills, essay writing and interpretation of original documents. This is a demanding course with a significant homework requirement.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSW205A",
+    "name": "AP WORLD HISTORY",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "World History",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students may take the corresponding AP exam in the spring for potential college credit. See your counselor or teacher for more information.",
+    "description": "This is a college level yearlong course designed to develop a greater understanding of global history; the study of human interactions and their consequences throughout history. This class begins its study in 1200 CE and ends with an investigation of present-day global relations. This is a demanding course with a significant homework requirement.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSC445",
+    "name": "CIVICS",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Civics",
+    "fees": "N/A",
+    "notes": null,
+    "description": "Seniors are required to take a semester of civics. This course focuses on the study of political and economic issues at the local, state, tribal, and national level. Students will examine the Constitution, focusing on the structure of the government as well as the role of the individual within a democratic society. Topics include: Federal, state, tribal, and local government organization and procedures. Rights and responsibilities of citizens addressed in the Washington State and US Constitutions. Current issues addressed at each level of government. Electoral issues, including elections, ballot measures, initiatives, and referendums. The study and completion of the civics component of the federally administered naturalization. test required of persons seeking to become naturalized US citizens. Recognizes the certain basic values and character traits essential to individual liberty, fulfillment, and happiness as identified by the State Legislature.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSG445",
+    "name": "CONTEMPORARY WORLD PROBLEMS",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Contemporary World Problems",
+    "fees": "N/A",
+    "notes": null,
+    "description": "Seniors are required to take Contemporary World Problems which is a one semester course that will emphasize the study of current, cultural, economic, environmental, political, and religious issues around the world. Topics include: International organizations, institutions, treaties, and frameworks. Current issues driving global events. The role of the US in a larger global context.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSE200",
+    "name": "ETHNIC STUDIES",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": "Flexible Credit",
+    "fees": "None",
+    "notes": "None",
+    "description": "Ethnic Studies examines cultural, economic, historical, political, and social aspects and experiences of ethnic groups, with a special emphasis on social justice through resistance, liberation, and healing. In this course, students center the cultures, histories, and experiences of historically minoritized groups as they critically analyze current issues influenced by systems of power and oppression. All students will cultivate a sense of belonging through humanizing learning experiences that affirm and validate their identities, intersectionalities, and communities, and honor that of the people around them, while also learning about the resilience and accomplishments of groups who have been silenced and excluded over time. \u00a0Ethnic Studies aids students in transforming their lives by promoting healing and/by disrupting systems of oppression throughout history, by uplifting the ideals of civic action and community partnerships in solidarity with others, and by providing students with the tools to utilize their voice and agency within their communities and as global citizens.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "CHS410A",
+    "name": "INTRODUCTION TO GLOBAL STUDIES",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "None",
+    "diploma_category": ".5 Civics & .5 Contemporary World Problems",
+    "fees": "Students have the option of enrolling for credit through Cascadia college free of charge.",
+    "notes": "College credits may be earned under the conditions of the College in the High School Program. See your counselor for information specific to your school.",
+    "description": "Global Studies is a COLLEGE level course designed to deepen students' understanding of geopolitics in the modern world. Topics include:\u00a0 The Global War on Terror (Afghanistan and Iraq) and the continuing impact on the current geopolitical landscape;\u00a0 analysis of the effectiveness of Global Governance in relation to the Liberal World Order (focusing on the role of the United Nations and NATO); study of the causes and effects of current conflicts/wars;\u00a0 and examining the US role in the world politically, economically, culturally and militarily.\u00a0 All assessments in the class involve college level analytical writing regarding the above topics.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSU300A",
+    "name": "US HISTORY 11",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11
+    ],
+    "prerequisites": "None",
+    "diploma_category": "US History",
+    "fees": "N/A",
+    "notes": null,
+    "description": "This graduation requirement focuses on the US Constitution and the relationship of historical events to the political, social and economic ideas that have shaped our country since Industrialization including Since Time Immemorial Native American curriculum from OSPI. Students will learn to assess historical sources and to evaluate historical events through lectures, readings, class discussion, multimedia resources and project learning.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "SSW125A",
+    "name": "WORLD HISTORY",
+    "subject": "Social Studies",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10
+    ],
+    "prerequisites": "None",
+    "diploma_category": "World History",
+    "fees": "N/A",
+    "notes": null,
+    "description": "Students will explore and analyze world events in this survey course spanning 1450-to the present. Major units of study include: Global expansion, the Age of Revolutions, international conflicts, the emergence and development of new nations, and the economic, technological, political, social, and geographic causes of change. These topics will be explored through the use of textbooks, primary source documents, scholarly readings, speeches, short stories, and political cartoons. The goal of the World History course is to prepare students to participate in a pluralistic, democratic society through understanding multiple perspectives, respecting various cultures, and recognizing their role in a global economy.",
+    "tracks": [
+      "Social Studies"
+    ]
+  },
+  {
+    "code": "MUS220",
+    "name": "ADVANCED DIGITAL MUSIC PRODUCTION",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Digital Music Production",
+    "diploma_category": "The Arts, Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "The second course of Digital Music Production - this course will have longer form projects, more collaborative projects, and take a deeper dive into music writing. A heavier emphasis will be placed on chordal knowledge and use of melodies.",
+    "tracks": [
+      "Arts",
+      "CTE"
+    ]
+  },
+  {
+    "code": "MUG155",
+    "name": "ADVANCED GUITAR",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Students must have completed Guitar 1 or have permission from instructor to enter class.",
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "This course is a continuation of the basic skills learned in Guitar 1. Students will continue to learn the fundamentals of the guitar and start to learn improvisation and solo techniques. Songs taught will be of a higher skill level. Students may also start writing their own riffs and chord progressions. Students must have completed Guitar 1 or have permission from instructor to enter class.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUP250",
+    "name": "ADVANCED PIANO LAB",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Piano Lab",
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "This class is for students who have taken at least one semester of piano at WHS or have taken at least one year of private piano lessons.\u00a0 This class is not for beginners.\u00a0 Grading is based upon daily participation, playing, and written tests.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUS350A",
+    "name": "AP MUSIC THEORY",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts, Flexible Credit",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP Music Theory test in the spring for potential college credit.",
+    "description": "The AP Music Theory class will be offered to all students who wish to further their understanding of reading music, as well as listening to music. This class focuses on music literacy, and goes in-depth on how the formulation of written music progressed throughout history. If you appreciate wonderful music, wish to become a better musician, or want to sign up for an AP class that involves listening to music, then this is the class for you. We will practice analyzing sheet music, reading musical notation, listening and responding to music, and even compose original music.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUV160A",
+    "name": "BEL CANTO",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Informal voice check-in",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Bel Canto is a group of high voices (sopranos and altos) who are highly skilled in vocal technique and musical ability. Bel Canto is a highly competitive group, and has the opportunity to travel and compete against other schools. This class introduces more complex musical practices like singing in four to eight-part harmony, sight-singing music, and being involved in many community performances. Bel Canto explores more diverse cultures, irregular and difficult rhythmic meters, and requires accurate vocal control. This group performs at all events that Concert Voices is involved in, as well as additional collegiate festivals, holiday gigs, assemblies, State Solo and Ensemble Contest, and more.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUO150",
+    "name": "CHAMBER ORCHESTRA",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "By audition only (audition in spring)",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Chamber Orchestra is the premiere string orchestra at WHS. The class develops advanced performing skills through a wide variety of fun and challenging musical literature, including both string orchestra and full orchestra pieces. Chamber Orchestra performs at all school concerts, Northlake League orchestra festivals, Solo & Ensemble, and other festivals that may involve evening and weekend performances.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUV120A",
+    "name": "CONCERT VOICES",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Do you love to sing? Are you interested in the Performing Arts, but don\u2019t know where to start? Concert Voices is the place for you. This group of mixed voices (men and women, soprano/alto/tenor/bass) sings exciting music from all over the world, popular music, and traditional music throughout the year. Concert Voices includes students who have never sang before, and students that have been in choir for all four years of high school. There is no singing experience necessary. Students in Concert Voices start with learning how to read one melody of music, and quickly learn how to read four-part harmony. We travel to places like California, Canada, New York City, etc. and compete in competitions, go on rehearsal retreats, organize performing gigs, perform in concerts, and so much more. Concert Voices is open to all who want to learn how to better their singing voice.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUS120",
+    "name": "DIGITAL MUSIC PRODUCTION",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts, Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed for students who love music. New technologies now allow students to express themselves in ways that are not achieved in traditional ensembles. In this class, students will create, produce, and record digital music of all styles and genres using GarageBand on iPads. Through a creative, project-based curriculum, students will utilize loops, drum machines and smart instruments in order to produce music for film and video games, design jingles for commercials, write original songs and beats, etc. This entry-level course provides a foundation to a potential career in the modern music world. No prerequisite or prior music experience necessary.",
+    "tracks": [
+      "Arts",
+      "CTE"
+    ]
+  },
+  {
+    "code": "MUG110",
+    "name": "GUITAR",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "This course is designed to teach students the fundamentals of the guitar. Students will learn the basics of guitar playing such as chords, finger picking, and tuning. In conjunction with learning how to play, students will learn how to read chord charts and analyze tabs through popular songs. Learn your favorite music, all styles welcome. This course is for all students, no prior music experience necessary.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "VMU200A",
+    "name": "JAZZ INDUSTRIES",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "By audition only. Must be concurrently enrolled in the school\u2019s band, orchestra or choral large ensemble class.",
+    "diploma_category": "The Arts,\u00a0Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Jazz Ensemble is a course designed to explore and develop skills in the ever-expanding genre of jazz music. Students will have the opportunity to play exciting music ranging from traditional big band swing to Latin, funk, and even rock styles. This class will also develop critical musical skills such as ear training, improvisation, and basic music theory. Jazz Ensemble performs at all school concerts, Northlake League jazz festivals, and other festivals that may involve evening and weekend performances.",
+    "tracks": [
+      "Arts",
+      "CTE"
+    ]
+  },
+  {
+    "code": "MUP300A",
+    "name": "PERCUSSION ENSEMBLE",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Emphasis is on the uniqueness of percussion performance (Concert and Marching) as well as developing individual musical maturity, responsibility, and proficiency on percussion instruments. The beginning of the year will focus on skills related to the marching band percussion section. The focus will then shift towards the role of the percussion section in band, as well as the development of percussion ensembles. Attendance is required for all events that involve Marching Band, Concert Band, Pep Band, and Percussion Ensemble. \u00a0The Percussion Ensemble performs at all school concerts, Northlake League band festivals, Solo & Ensemble, and other festivals that may involve evening and weekend performances.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUP200",
+    "name": "PIANO LAB",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "This class is for the student who wants to learn to play the piano. It will include keyboard skills as well as a theory component to enable students to understand the elements of reading music. \u00a0Grading is based upon daily participation and playing, and written tests.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUO100A",
+    "name": "STRING ENSEMBLE",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Experience on an orchestra string instrument or by teacher permission",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "In String Ensemble, string students are introduced to exciting new music that challenges them as a stepping stone towards Chamber Orchestra. Performing skills are developed through playing a variety of string repertoire ranging from classical to modern styles in both string and full orchestra settings. String Orchestra performs at all school concerts, Northlake League orchestra festivals, Solo & Ensemble, and other festivals that may involve evening and weekend performances.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUB100A",
+    "name": "SYMPHONIC BAND",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Experience on a wind instrument or by teacher permission",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Symphonic Band is designed to provide students with an introduction to high school level wind band literature. Students will develop performing skills through the exploration of a wide variety of exciting repertoire including marching, concert, and chamber music. Symphonic Band performs at all school concerts, Northlake League band festivals, Solo & Ensemble, sporting/pep events, and other festivals that may involve evening and weekend performances.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "MUB300",
+    "name": "WIND ENSEMBLE",
+    "subject": "The Arts",
+    "sub_subject": "Performing Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "By audition only",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Wind Ensemble is Woodinville High School\u2019s premiere wind band. In this class, students will be challenged with engaging and diverse music experiences including marching band, wind band literature, and pep band. This course is designed to develop advanced performing skills and performs at all school concerts, Northlake League band festivals, Solo & Ensemble, sporting/pep events, and other festivals that may involve evening and weekend performances.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "DRA335",
+    "name": "ADVANCED ACTING",
+    "subject": "The Arts",
+    "sub_subject": "Theatrical Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Audition required",
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "In Advanced Acting students will learn the combination of skills that are necessary to create and present a variety of stage productions that include monologues, one-acts, and stage plays. This course is for actors involved in the presentation of various school play performances during the year. Students may repeat Advanced Acting.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "DRA305",
+    "name": "ADVANCED TECHNICAL THEATRE",
+    "subject": "The Arts",
+    "sub_subject": "Theatrical Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "At least one semester of technical theatre",
+    "diploma_category": "The Arts, Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "A continuation of the work of technical theatre, with a focus on depth and breadth of knowledge. Students will take leadership roles in group work, and crew head responsibilities. Areas of study include scenic construction and design, lighting design, audio design, costume construction and design, and scenic rigging. Students are expected to work backstage during at least one production during each semester.",
+    "tracks": [
+      "Arts",
+      "CTE"
+    ]
+  },
+  {
+    "code": "DRA235",
+    "name": "INTERMEDIATE ACTING",
+    "subject": "The Arts",
+    "sub_subject": "Theatrical Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "Intermediate Acting will encourage students to think and work creatively in both individual and ensemble projects. The course focuses on stage acting, and the scene work for this class will be pulled from a diverse range of cultural and historical resources allowing the student to experience many forms of the dramatic arts. Intermediate Acting is a perfect follow-up to Introduction to Theatre or for students who have already had some theatre experience. Students may repeat Intermediate Acting.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "DRA135",
+    "name": "INTRODUCTION TO THEATRE",
+    "subject": "The Arts",
+    "sub_subject": "Theatrical Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": null,
+    "notes": null,
+    "description": "This class is designed to lay the foundation for acting by developing skills in movement, improvisation, and character development.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "TET315",
+    "name": "TECH THEATRE",
+    "subject": "The Arts",
+    "sub_subject": "Theatrical Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts, Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "Students will concentrate on the major areas of theatre technology and production. Students will explore advanced set design and construction techniques, the creative process involved in translating a script into a visual design, and the essentials of developing costumes, props, lighting and sound designs. All students will acquire behind-the-scenes stage experience through the production of 2-3 shows during the year.",
+    "tracks": [
+      "Arts",
+      "CTE"
+    ]
+  },
+  {
+    "code": "AAA150A",
+    "name": "ADVANCED ART",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Intermediate Art",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "This yearlong course is designed for students who have taken Beginning and/or Intermediate Art and want to develop an art portfolio. In a supportive environment, students will engage with peers and teacher to investigate and develop personal style and expression. Assignments will include work from life, imagination and personal expression. \u00a0Learn to express yourself visually!",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "ACE150",
+    "name": "ADVANCED CERAMICS",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Ceramics",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Continue your journey in clay with Advanced Ceramics. Using knowledge of techniques learned in Beginning Ceramics, students will expand their sculpting capabilities through creative challenges that will continue to grow their understanding of clay as an artistic and functional media. If you\u2019ve been wanting to work on the potter\u2019s wheel, this is your chance! Ceramics is a prerequisite to this course.\u00a0 This course may be repeated as many times as you like! You will be taught new skills and given new challenges based on your continued skill development.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "AMD150",
+    "name": "ADVANCED METAL DESIGN",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Metal Design",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Students who have taken Beginning Metal Design will continue to learn and explore more advanced metalsmithing techniques. Skills will include stone setting, casting, riveting and enameling among many other skills. Through hands-on and collaborative work students will have the opportunity for more personal expression and open-ended designs. This course may be repeated multiple times.\u00a0\u00a0Skills and challenges will grow with the students capabilities as they repeat this course.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "APH150",
+    "name": "ADVANCED PHOTOGRAPHY",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Photography",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": "It is recommended that each student provides his/her own manually adjustable digital camera",
+    "description": "Advanced Photography is offered to students who have had the beginning class and are enthusiastic about spending more time doing photography. \u00a0Assignments will focus on learning new techniques and improving technical skills, as well as special effects.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "ASG150",
+    "name": "ADVANCED STAINED GLASS",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Stained Glass",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "More glass artists live in the greater Seattle area than any other place across the globe. \u00a0This class is offered as an extension of Stained Glass. \u00a0The instructor will emphasize the artistic approach of using glass as a means for personal expression. \u00a0Techniques will include fusing, slumping, glass painting, etching, mosaics, lead construction, copper foil, and glass combing.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "APA150A",
+    "name": "AP STUDIO ART",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts Prerequisite(s): Advanced Art or Art Teacher permission required with presentation of Art Portfolio",
+    "fees": "Optional for portfolio presentation in the Spring.\u00a0\u00a0Financial aid available, please see your counselor.\u00a0Other Info: Students submit a portfolio for evaluation in the spring.",
+    "notes": "Students submit a portfolio for evaluation in the spring.",
+    "description": "The AP Studio Art program makes it possible for highly motivated high school students to do college-level artwork. During this yearlong course, each student will prepare and submit a portfolio of 15 works for evaluation at the end of the school year by the AP College Board. AP Studio teaches the development of concepts, composition, and drawing techniques to create a portfolio for college entrance. A Sustained Investigation of works based on the student's individual interest in a particular area, and focuses on the process of investigation, growth, and discovery. Students will focus on the 2-D portfolio options incorporating media such as Drawing, Painting, Collage, Printmaking, and Mixed Media Artwork. This class may be repeated multiple times.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "APA155A",
+    "name": "AP STUDIO ART: 2-D Design Portfolio",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts Prerequisite(s): AP Studio Art Drawing, Advanced Art or Art Teacher permission required with presentation of Art Portfolio",
+    "fees": "Optional for portfolio presentation in the Spring.\u00a0\u00a0Financial aid available, please see your counselor.\u00a0Other Info: Students submit a portfolio for evaluation in the spring.",
+    "notes": "Students submit a portfolio for evaluation in the spring.",
+    "description": "This yearlong course is designed for the serious art student who is interested in the pursuit of college level artistic development and in art as a possible career. AP Studio Art: 2-D Design is an intensive investigation of art concepts, media, and techniques after completing the AP Studio Art: Drawing Portfolio (and optionally after taking Advanced Art). This class will offer students the opportunity to further master their skills in communicating concepts visually, developing their artistic voice, creating strong compositions and increasing techniques in various art media that emphasize the effective utilization of the Principles of Art and Design. Students will submit a portfolio of 15 works to the College Board in the spring which emphasizes an innovative Sustained Investigation of work that showcases a variety of diverse artmaking techniques.",
+    "tracks": [
+      "Arts",
+      "College Prep"
+    ]
+  },
+  {
+    "code": "ART115",
+    "name": "BEGINNING ART",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "No experience necessary. This beginning course is a great place to start learning drawing skills and introduces students to the principles of successful design. Students will have fun exploring a wide variety of materials including pencil, pen-and-ink, color pencil, pastel, mixed media and watercolor through hands-on experience.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "ACE100",
+    "name": "CERAMICS",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "This course is designed to introduce students to the amazing world of Ceramics.\u00a0\u00a0Come build many functional and decorative pieces with clay, as you grow your hand building skills and understanding of how to apply color to clay through glazing.\u00a0\u00a0All levels are welcome and will be supported!\u00a0\u00a0It is recommended to sign up for level I first semester and Advanced Ceramics second semester of the same year.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "AGD100",
+    "name": "GRAPHIC DESIGN",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Learn modern graphic design techniques, including basic Adobe Photoshop, Illustrator, InDesign, and Bridge programs. Computerized type, layout, and production projects include: letterform, editorial imaging (such as anti-racism material), travel posters, fashion design, food labels, marketing materials, magazine spreads, text portraits, etc.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "AIA100",
+    "name": "INTERMEDIATE ART",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Beginning Art",
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Beginning art or a portfolio review by WHS art teachers is recommended. \u00a0Intermediate Art is for the student who would like to continue to develop their abilities and expand their interest in art. \u00a0\u00a0Projects are designed to build and expand student\u2019s drawing and design skills while developing their creativity and personal expression through the use of color in a variety of media, which may include painting with acrylic & watercolor, charcoal, conte, mixed media, printmaking, 3-D design, oil pastel, and chalk pastel.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "AMD100",
+    "name": "METAL DESIGN",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Students will have the opportunity to develop and apply successful design skills to make small scale metal artworks in the form of jewelry and occasionally small-scale sculpture using brass, copper, and nickel. Through hands-on experience students will learn how to drill, saw, file, solder, and polish metals. This engaging class will challenge and develop your design and problem-solving skills. It is recommended to sign up for Advanced Metal Design for second semester if you would like to continue developing your skills.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "APH100",
+    "name": "PHOTOGRAPHY",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": "It is recommended that each student provides his/her own manually adjustable digital camera",
+    "description": "Do you like to take pictures? In this class you will: 1) Learn how to use an adjustable camera with shutter speed and aperture settings to take quality photos without a flash; 2) Learn how to see through the lens creatively to take artistic photos, not just snapshots. Students should be prepared to spend out-of-class time shooting their photos. The opportunity to use film and print in the darkroom is also available. (Schools without access to darkrooms will focus on digital photography.)",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "ASG100",
+    "name": "STAINED GLASS",
+    "subject": "The Arts",
+    "sub_subject": "Visual Arts",
+    "credits": 0.5,
+    "duration": "Semester",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": null,
+    "diploma_category": "The Arts",
+    "fees": "Fees Apply. Financial aid available, please see your counselor.",
+    "notes": null,
+    "description": "Learn the ancient and contemporary skills of designing and constructing glass windows and decorations. \u00a0Lead and copper foil techniques for assembling glass projects will be emphasized. \u00a0Students will use their design skills to plan and assemble required projects. \u00a0Glass fusing and slumping will be introduced.",
+    "tracks": [
+      "Arts"
+    ]
+  },
+  {
+    "code": "WLF410A",
+    "name": "AP FRENCH",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 350 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP French Language & Culture, or AP German Language & Culture, AP Japanese Language & Culture or AP Spanish Language & Culture test in the spring for potential college credit.",
+    "description": "The AP curriculum focuses on interpersonal, interpretive, and presentational skills about global topics in French, German, Japanese, or Spanish. Students will be prepared for success on the AP exam in May and overall fluency in the respective language. Each class is conducted entirely in French, German, Japanese, or Spanish. The five Cs of language learning (Communication, Connections, Cultures, Comparisons, and Communities) will be practiced regularly as students become familiar with the six themes of the AP Language and Culture course. \u00a0The themes are as follows: Global Challenges, Science and Technology, Contemporary Life, Personal and Public Identities, Families and Communities, and Beauty and Aesthetics. Students\u2019 language skills will be ameliorated by writing regularly in a variety of formats, participating in class and small group discussions, listening to French, German, Japanese, or Spanish-language music and news stories and reading texts from the French, German, Japanese, or Spanish-speaking world.",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLF450A",
+    "name": "AP GERMAN",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 350 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP French Language & Culture, or AP German Language & Culture, AP Japanese Language & Culture or AP Spanish Language & Culture test in the spring for potential college credit.",
+    "description": "The AP curriculum focuses on interpersonal, interpretive, and presentational skills about global topics in French, German, Japanese, or Spanish. Students will be prepared for success on the AP exam in May and overall fluency in the respective language. Each class is conducted entirely in French, German, Japanese, or Spanish. The five Cs of language learning (Communication, Connections, Cultures, Comparisons, and Communities) will be practiced regularly as students become familiar with the six themes of the AP Language and Culture course. \u00a0The themes are as follows: Global Challenges, Science and Technology, Contemporary Life, Personal and Public Identities, Families and Communities, and Beauty and Aesthetics. Students\u2019 language skills will be ameliorated by writing regularly in a variety of formats, participating in class and small group discussions, listening to French, German, Japanese, or Spanish-language music and news stories and reading texts from the French, German, Japanese, or Spanish-speaking world.",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLJ500A",
+    "name": "AP JAPANESE",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 350 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP French Language & Culture, or AP German Language & Culture, AP Japanese Language & Culture or AP Spanish Language & Culture test in the spring for potential college credit.",
+    "description": "The AP curriculum focuses on interpersonal, interpretive, and presentational skills about global topics in French, German, Japanese, or Spanish. Students will be prepared for success on the AP exam in May and overall fluency in the respective language. Each class is conducted entirely in French, German, Japanese, or Spanish. The five Cs of language learning (Communication, Connections, Cultures, Comparisons, and Communities) will be practiced regularly as students become familiar with the six themes of the AP Language and Culture course. \u00a0The themes are as follows: Global Challenges, Science and Technology, Contemporary Life, Personal and Public Identities, Families and Communities, and Beauty and Aesthetics. Students\u2019 language skills will be ameliorated by writing regularly in a variety of formats, participating in class and small group discussions, listening to French, German, Japanese, or Spanish-language music and news stories and reading texts from the French, German, Japanese, or Spanish-speaking world.",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLS410A",
+    "name": "AP SPANISH",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 350 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": "Optional for students choosing to take the AP exam in the Spring.\u00a0 Financial aid available, please see your counselor.",
+    "notes": "Students are encouraged to take the AP French Language & Culture, or AP German Language & Culture, AP Japanese Language & Culture or AP Spanish Language & Culture test in the spring for potential college credit.",
+    "description": "The AP curriculum focuses on interpersonal, interpretive, and presentational skills about global topics in French, German, Japanese, or Spanish. Students will be prepared for success on the AP exam in May and overall fluency in the respective language. Each class is conducted entirely in French, German, Japanese, or Spanish. The five Cs of language learning (Communication, Connections, Cultures, Comparisons, and Communities) will be practiced regularly as students become familiar with the six themes of the AP Language and Culture course. \u00a0The themes are as follows: Global Challenges, Science and Technology, Contemporary Life, Personal and Public Identities, Families and Communities, and Beauty and Aesthetics. Students\u2019 language skills will be ameliorated by writing regularly in a variety of formats, participating in class and small group discussions, listening to French, German, Japanese, or Spanish-language music and news stories and reading texts from the French, German, Japanese, or Spanish-speaking world.",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLX425A",
+    "name": "ASL 400",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      12
+    ],
+    "prerequisites": "Completion of the ASL 300",
+    "diploma_category": "Career & Technical Education",
+    "fees": null,
+    "notes": null,
+    "description": "ASL 400 continues vocabulary and grammatical structure of the language with storytelling, narratives, and dialogues. While continuing an exposure to Deaf history, culture, and community, students will also explore Deaf folklore, current events and Deaf-related topics, Deaf-Blind community, mock interpreting simulations, poetry, iconic art, and careers with ASL. 5TH YEAR LANGUAGE",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLF100A",
+    "name": "FRENCH 100",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLF200A",
+    "name": "FRENCH 200",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of ASL 100",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLG100",
+    "name": "GERMAN 100",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLG200A",
+    "name": "GERMAN 200",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of ASL 100",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLG300",
+    "name": "GERMAN 300",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 200 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": null,
+    "notes": null,
+    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in every aspect of the language. Short stories, skits and role-playing, poems, magazine and newspaper articles, audio and video sources are used to encourage learning. The class is conducted in an immersion environment and the students are encouraged to employ the language as much as possible. The goal for yearend will be that students will have developed a basic proficiency in the language.",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLJ100A",
+    "name": "JAPANESE 100",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLJ200A",
+    "name": "JAPANESE 200",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of ASL 100",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLJ300",
+    "name": "JAPANESE 300",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 200 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": null,
+    "notes": "University of Washington college credit available.",
+    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in every aspect of the language. Short stories, skits and role-playing, poems, magazine and newspaper articles, audio and video sources are used to encourage learning. The class is conducted in an immersion environment and the students are encouraged to employ the language as much as possible. The goal for yearend will be that students will have developed a basic proficiency in the language. CHS806A/B\n- (FRENCH 103) ELEMENTARY FRENCH (French 350) CHS836A/B\n- (SPAN 103) ELEMENTARY SPANISH (Spanish 350) The University of Washington, as part of their College in the High School programs, will offer their 103-level course as a third-year language course option.\nStudents who register for UW credit in the fall and successfully complete the class will earn 5 UW credits transferable to most 4-year colleges in the nation. Students may take the class without earning university credit. These courses entail the exclusive use of the studied language in the classroom with an emphasis on communication skills, interactive presentation of grammar, and daily practice inside and outside of class. 4TH YEAR LANGUAGE",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLS100A",
+    "name": "SPANISH 100",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLS200A",
+    "name": "SPANISH 200",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of ASL 100",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "WLS300A",
+    "name": "SPANISH 300",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the ASL 200",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": null,
+    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in their ability to understand what they hear, read, write, and speak in Spanish. Games, newspaper articles, daily conversations, focused grammar practice, audio and video sources, and projects are used to encourage learning. The class is conducted in a semi-immersion environment and the students are encouraged to employ the language as much as possible. The goal for year-end will be that students will have developed a basic communicative proficiency in the language. CHS993A/B\n- (ASL 153) AMERICAN SIGN LANGUAGE 300 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details.",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  }
+]
