@@ -1267,11 +1267,12 @@
     "credits": 0.5,
     "duration": "Semester",
     "grades": [
+      10,
       11,
       12
     ],
     "prerequisites": null,
-    "diploma_category": "Flexible credits The course would be broken up into 3 units. Senior \u201cAdulting\u201d and Life Planning Class is a course offered in order to prepare seniors (and juniors) for the next phase of life. Let\u2019s face it, \u201cadulting\u201d can be difficult in 21st Century America, and this next chapter of life can feel, well, a bit daunting! However, this anxiety can be diffused with just a little planning and foresight. The course objective is to provide units of study around what is needed to \u201cadult\u201d well, and to end the course with a plan for the life ahead. The course would be a semester-long elective. The units would be as follows: Unit 1\u2013College life planning--Including aptitude testing, research \u2014 3 career interests--Ending in an internship. Unit 2\u2013Life planning--What is a financial plan, and how to implement it--including how to pay taxes. We will also delve into what makes people happy (in 21st century), mindfulness and exercise etc...Unit 3\u2013 Interpersonal Relationships--What does good communication look like?! What makes for a healthy marriage, parenting, and even what a healthy single life looks like. The course would end with a presentation\u2014A solid plan for the next year of life.",
+    "diploma_category": "Flexible credits",
     "fees": null,
     "notes": null,
     "description": "By enrolling in this course, students will become members of the Woodinville News staff. This course will introduce students to all aspects of journalism, including but not limited to journalistic ethics, news writing, reporting, interviewing, photography, editing, and audio/video production. Students will report on happenings relevant to our school community by creating content for the school news website. Over the course of the year, students will complete units on news writing, photojournalism, audio reporting, and video production. In addition to creating their own news coverage, students will read and discuss current events, using these examples as mentor texts. YYN890\n\u2013 \u201cADULTING\u201d 101: A LIFE PLANNING COURSE",
@@ -3178,6 +3179,115 @@
     ]
   },
   {
+    "code": "CHS991A",
+    "name": "(ASL 151) AMERICAN SIGN LANGUAGE 100",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11
+    ],
+    "prerequisites": null,
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "CHS992A",
+    "name": "(ASL 152) AMERICAN SIGN LANGUAGE 200",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of ASL 100",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": "Up to 5 college credits available.",
+    "description": "Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "CHS993A",
+    "name": "(ASL 153) AMERICAN SIGN LANGUAGE 300",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the ASL 200",
+    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "fees": null,
+    "notes": null,
+    "description": "Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details.",
+    "tracks": [
+      "College Prep",
+      "World Languages"
+    ]
+  },
+  {
+    "code": "CHS806A",
+    "name": "(FRENCH 103) ELEMENTARY FRENCH (French 350)",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 200 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": null,
+    "notes": null,
+    "description": "The University of Washington, as part of their College in the High School programs, will offer their 103-level course as a third-year language course option.\nStudents who register for UW credit in the fall and successfully complete the class will earn 5 UW credits transferable to most 4-year colleges in the nation. Students may take the class without earning university credit. These courses entail the exclusive use of the studied language in the classroom with an emphasis on communication skills, interactive presentation of grammar, and daily practice inside and outside of class. 4TH YEAR LANGUAGE",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
+    "code": "CHS836A",
+    "name": "(SPAN 103) ELEMENTARY SPANISH (Spanish 350)",
+    "subject": "World Languages",
+    "sub_subject": null,
+    "credits": 1.0,
+    "duration": "Full Year",
+    "grades": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "prerequisites": "Completion of the 200 level course of the selected language",
+    "diploma_category": "Flexible Credit",
+    "fees": null,
+    "notes": null,
+    "description": "The University of Washington, as part of their College in the High School programs, will offer their 103-level course as a third-year language course option.\nStudents who register for UW credit in the fall and successfully complete the class will earn 5 UW credits transferable to most 4-year colleges in the nation. Students may take the class without earning university credit. These courses entail the exclusive use of the studied language in the classroom with an emphasis on communication skills, interactive presentation of grammar, and daily practice inside and outside of class. 4TH YEAR LANGUAGE",
+    "tracks": [
+      "World Languages"
+    ]
+  },
+  {
     "code": "WLF410A",
     "name": "AP FRENCH",
     "subject": "World Languages",
@@ -3293,12 +3403,11 @@
       11
     ],
     "prerequisites": null,
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "notes": null,
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3310,17 +3419,17 @@
     "credits": 1.0,
     "duration": "Full Year",
     "grades": [
+      9,
       10,
       11,
       12
     ],
-    "prerequisites": "Completion of ASL 100",
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "prerequisites": "Completion of the 100 level course of the selected language",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "notes": null,
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3337,12 +3446,11 @@
       11
     ],
     "prerequisites": null,
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "notes": null,
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3354,17 +3462,17 @@
     "credits": 1.0,
     "duration": "Full Year",
     "grades": [
+      9,
       10,
       11,
       12
     ],
-    "prerequisites": "Completion of ASL 100",
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "prerequisites": "Completion of the 100 level course of the selected language",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "notes": null,
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3402,12 +3510,11 @@
       11
     ],
     "prerequisites": null,
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "notes": null,
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3419,17 +3526,17 @@
     "credits": 1.0,
     "duration": "Full Year",
     "grades": [
+      9,
       10,
       11,
       12
     ],
-    "prerequisites": "Completion of ASL 100",
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "prerequisites": "Completion of the 100 level course of the selected language",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "notes": null,
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3441,7 +3548,6 @@
     "credits": 1.0,
     "duration": "Full Year",
     "grades": [
-      9,
       10,
       11,
       12
@@ -3450,7 +3556,7 @@
     "diploma_category": "Flexible Credit",
     "fees": null,
     "notes": "University of Washington college credit available.",
-    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in every aspect of the language. Short stories, skits and role-playing, poems, magazine and newspaper articles, audio and video sources are used to encourage learning. The class is conducted in an immersion environment and the students are encouraged to employ the language as much as possible. The goal for yearend will be that students will have developed a basic proficiency in the language. CHS806A/B\n- (FRENCH 103) ELEMENTARY FRENCH (French 350) CHS836A/B\n- (SPAN 103) ELEMENTARY SPANISH (Spanish 350) The University of Washington, as part of their College in the High School programs, will offer their 103-level course as a third-year language course option.\nStudents who register for UW credit in the fall and successfully complete the class will earn 5 UW credits transferable to most 4-year colleges in the nation. Students may take the class without earning university credit. These courses entail the exclusive use of the studied language in the classroom with an emphasis on communication skills, interactive presentation of grammar, and daily practice inside and outside of class. 4TH YEAR LANGUAGE",
+    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in every aspect of the language. Short stories, skits and role-playing, poems, magazine and newspaper articles, audio and video sources are used to encourage learning. The class is conducted in an immersion environment and the students are encouraged to employ the language as much as possible. The goal for yearend will be that students will have developed a basic proficiency in the language.",
     "tracks": [
       "World Languages"
     ]
@@ -3468,12 +3574,11 @@
       11
     ],
     "prerequisites": null,
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing. CHS991A/B\n- (ASL 151) AMERICAN SIGN LANGUAGE 100 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 2ND YEAR LANGUAGE",
+    "notes": null,
+    "description": "A beginning course to introduce the basics of the language, as well as the culture, through simulated real life situations, music, games, storytelling, and other activities. The goal for year-end will be that students have gained a working vocabulary and grammar basis to facilitate communication in the language. Skills emphasized will be: listening, oral communication, reading and writing.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3485,17 +3590,17 @@
     "credits": 1.0,
     "duration": "Full Year",
     "grades": [
+      9,
       10,
       11,
       12
     ],
-    "prerequisites": "Completion of ASL 100",
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "prerequisites": "Completion of the 100 level course of the selected language",
+    "diploma_category": "Flexible Credit",
     "fees": null,
-    "notes": "Up to 5 college credits available.",
-    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication. CHS992A/B\n- (ASL 152) AMERICAN SIGN LANGUAGE 200 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details. 3RD\u00a0YEAR LANGUAGE",
+    "notes": null,
+    "description": "In these second-year courses, students will expand their knowledge and fluency of the language by increasing their vocabulary base and expanding their ability to read and write in the language. The goal for the year-end will be that students have expanded their conversation skills, grammar, reading, and writing skills to an intermediate level. Skills emphasized will be\u00a0listening, reading, and writing, as well as oral communication.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   },
@@ -3507,16 +3612,17 @@
     "credits": 1.0,
     "duration": "Full Year",
     "grades": [
+      9,
+      10,
       11,
       12
     ],
-    "prerequisites": "Completion of the ASL 200",
-    "diploma_category": "Career & Technical Education,\u00a0Flexible Credit, CTE Dual Credit Offering",
+    "prerequisites": "Completion of the 200 level course of the selected language",
+    "diploma_category": "Flexible Credit",
     "fees": null,
     "notes": null,
-    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in their ability to understand what they hear, read, write, and speak in Spanish. Games, newspaper articles, daily conversations, focused grammar practice, audio and video sources, and projects are used to encourage learning. The class is conducted in a semi-immersion environment and the students are encouraged to employ the language as much as possible. The goal for year-end will be that students will have developed a basic communicative proficiency in the language. CHS993A/B\n- (ASL 153) AMERICAN SIGN LANGUAGE 300 Conversational approach to American Sign Language with intensive visual/manual drill. Firm foundation in basic ASL signs and structural principles of the language. Students will acquire an overview of historical and cultural features and be able to identify the cultural practices of the American Deaf community. This course is articulated for college credit with Central Washington University. See your instructor for more details.",
+    "description": "In this third-year course, students will be engaged in a variety of activities to develop skills in their ability to understand what they hear, read, write, and speak in Spanish. Games, newspaper articles, daily conversations, focused grammar practice, audio and video sources, and projects are used to encourage learning. The class is conducted in a semi-immersion environment and the students are encouraged to employ the language as much as possible. The goal for year-end will be that students will have developed a basic communicative proficiency in the language.",
     "tracks": [
-      "College Prep",
       "World Languages"
     ]
   }

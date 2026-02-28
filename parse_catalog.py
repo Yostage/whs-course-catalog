@@ -152,6 +152,7 @@ def parse_course_block(header_p: Tag, following_ps: list[Tag], subject_info: dic
     }
 
     desc_parts = []
+    found_metadata = False
 
     for p in following_ps:
         # Replace <br> with newlines before extracting text so inline fields split correctly
@@ -164,7 +165,11 @@ def parse_course_block(header_p: Tag, following_ps: list[Tag], subject_info: dic
         # Check if this paragraph has labeled fields
         has_label = bool(re.search(r'\b(Length\s*/\s*Credit|Grades?|Prerequisites?|Diploma Category|Fees|Notes|Other Info)\s*:', p_text))
 
+        if has_label and found_metadata:
+            # Second labeled block = a different (undetected) course sharing this following range; stop
+            break
         if has_label:
+            found_metadata = True
             # Parse each labeled field
             # Split into lines; join lines where colon is on its own line (bold label split from colon)
             raw_lines = [l.strip() for l in p_text.split("\n")]
@@ -287,7 +292,8 @@ def parse_section(container: Tag, subject_info: dict) -> list[dict]:
 
     def is_course_header(item) -> bool:
         text = get_text(item)
-        return bool(COURSE_CODE_RE.match(text) and re.search(r'[A-Z0-9/]+\s*[-–]\s*[A-Z]', text))
+        # Allow names starting with ( e.g. "CHS991A/B - (ASL 151) AMERICAN SIGN LANGUAGE 100"
+        return bool(COURSE_CODE_RE.match(text) and re.search(r'[A-Z0-9/]+\s*[-–]\s*[\(A-Z]', text))
 
     # Find course header paragraphs
     course_starts = [i for i, p in enumerate(all_ps) if is_course_header(p)]
